@@ -36,6 +36,19 @@ EXIT;
 ```
 
 ```sql
+use u385792050_3gn7O;
+select option_value from wp_options where option_name = 'home' or option_name = 'siteurl';
+```
+
++---------------------------------------------------+
+| option_value                                      |
++---------------------------------------------------+
+| https://greenyellow-mink-583150.hostingersite.com |
+| https://greenyellow-mink-583150.hostingersite.com |
++---------------------------------------------------+
+
+
+```sql
 USE u385792050_3gn7O;
 SELECT u.user_login
 FROM wp_users u
