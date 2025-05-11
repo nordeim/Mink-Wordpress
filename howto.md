@@ -91,4 +91,70 @@ By following either of these approaches, you should be able to align your local 
 
 If you're steered by a desire to understand your Git repository's state before wiping out your changes, you might consider using visual tools or commands like `git status` or even backing up your current directory before executing these commands. 
 
-Would you like to explore more about Git best practices or dive into another related topic?
+---
+The output of your `git log origin/main..HEAD` command is already showing you which commits are ahead of the remote branch. In your case, you have two commits pending push:
+
+1. **Merge Commit (c7f40fa6...)**  
+   This commit is the merge commit that results from merging changes from the remote repository with your local branch. It has two parent commits—one from your local work (commit 89480703) and one that likely represents the remote branch (d84df94a).
+
+2. **Commit (89480703...)**  
+   This commit represents an earlier change (with the message "chmod").
+
+In essence, if you execute a `git push`, both of these commits will be pushed to `origin/main`.
+
+### Additional Ways to Inspect Commits
+
+- **Condensed Log:**  
+  For a shorter, one-line summary of each commit, run:  
+  ```bash
+  git log --oneline origin/main..HEAD
+  ```
+  
+- **Graphical View:**  
+  To see a simple visual representation of your branch history, use:  
+  ```bash
+  git log --graph --decorate --oneline origin/main..HEAD
+  ```
+  
+- **Using git cherry:**  
+  The command below lists commits that exist on your local branch but not on the remote tracking branch. Each commit is prefixed with a `+`, indicating it will be pushed:  
+  ```bash
+  git cherry -v
+  ```
+
+- **Viewing the Combined Diff:**  
+  If you want to review the cumulative changes that these commits introduce compared to the remote branch, you can execute:  
+  ```bash
+  git diff origin/main
+  ```
+
+### What to Expect When Pushing
+
+When you run `git push`, Git will send both the merge commit and the "chmod" commit to the remote repository. The merge commit effectively registers that you have reconciled differences between your branch and the remote, ensuring that both sets of changes (yours and the remote's) are now combined in your local history. 
+
+These techniques let you feel confident about what changes you're about to publish and give you the control to review any alterations before they become part of the remote history.
+
+---
+You can simply compare your current branch (HEAD) with the remote tracking branch using the following command:
+
+```bash
+git log origin/main..HEAD
+```
+
+This command will list all the commits that exist in your local branch but not in `origin/main`. If you prefer a condensed view, you can use the `--oneline` option:
+
+```bash
+git log --oneline origin/main..HEAD
+```
+
+Another useful tool is:
+
+```bash
+git cherry -v
+```
+
+This will display the commits that are unique to your branch as compared to the remote, each marked with a `+` to indicate they're pending to be pushed.
+
+These commands help you verify exactly which commits will be pushed to the remote repository, ensuring that you have a clear understanding of the differences between your local branch and `origin/main`. 
+
+If you're interested, you might also explore graphical tools like `gitk origin/main..HEAD` or using `tig` for a more visual representation of the commit history.
