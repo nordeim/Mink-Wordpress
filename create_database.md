@@ -47,7 +47,6 @@ select option_value from wp_options where option_name = 'home' or option_name = 
 | https://greenyellow-mink-583150.hostingersite.com |
 +---------------------------------------------------+
 
-
 ```sql
 USE u385792050_3gn7O;
 SELECT u.user_login
