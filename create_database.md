@@ -1,3 +1,4 @@
+# wrA8YckTqTwp
 ```sql
 CREATE USER 'u385792050_OeRMX'@'localhost' IDENTIFIED BY 'rA8YckTqTw';
 CREATE USER 'u385792050_OeRMX'@'127.0.0.1' IDENTIFIED BY 'rA8YckTqTw';
@@ -17,10 +18,28 @@ mysql -u root -p u385792050_3gn7O -e "show tables;"
 ```
 
 ```sql
+USE u385792050_3gn7O;
 UPDATE `wp_users`
 SET 
   `user_pass` = '$2y$10$6/VdcOMfMCwT81A3fTMGuOmt2RQoDyBemmrP1/40rlj3zYemOF2cS',
   `user_email` = 'wpadmin@localhost.localdomain',
   `user_url` = 'https://greenyellow-mink.com'
 WHERE `ID` = 1;
+```
+
+mysql -u u385792050_OeRMX -p -h 127.0.0.1
+```sql
+USE u385792050_3gn7O;
+UPDATE wp_options SET option_value = 'https://greenyellow-mink.com' WHERE option_name = 'siteurl';
+UPDATE wp_options SET option_value = 'https://greenyellow-mink.com' WHERE option_name = 'home';
+EXIT;
+```
+
+```sql
+USE u385792050_3gn7O;
+SELECT u.user_login
+FROM wp_users u
+JOIN wp_usermeta m ON u.ID = m.user_id
+WHERE m.meta_key = 'wp_capabilities'
+  AND m.meta_value LIKE '%administrator%';
 ```
