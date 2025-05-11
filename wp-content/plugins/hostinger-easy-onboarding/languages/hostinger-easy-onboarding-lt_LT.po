@@ -12,13 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2023-03-02T12:10:37+00:00\n"
-"PO-Revision-Date: 2025-04-17 11:01+0000\n"
+"PO-Revision-Date: 2025-04-28 04:37+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger\n"
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -45,11 +45,11 @@ msgstr "%s jau aktyvus"
 msgid "%s missing or empty"
 msgstr "%s nėra arba yra tuščias"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(Kredito / debeto kortelė)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -57,14 +57,14 @@ msgstr ""
 "<strong>Beveik viskas!</strong> Tereikia atlikti dar kelis žingsnius, kad "
 "tavo svetainė būtų parengta sėkmingai veikti internete."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr ""
 "<strong>Naudok integruotus mokėjimo metodus</strong> – nereikia jokių "
 "papildomų įskiepių."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr ""
@@ -76,7 +76,7 @@ msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr ""
 "Priimk mokėjimus kredito kortele. Tvarkyk sandorius WordPress sistemoje."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "Prieiga prie svetainės ir pavadinimo redagavimas"
 
@@ -91,11 +91,11 @@ msgstr ""
 msgid "Actions"
 msgstr "Veiksmai"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "Aktyvuoti"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "Pridėti"
 
@@ -103,15 +103,15 @@ msgstr "Pridėti"
 msgid "Add a domain"
 msgstr "Pridėti domeną"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "Pridėti naują puslapį"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "Pridėti antraštę"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "Pridėti turinį"
 
@@ -119,7 +119,7 @@ msgstr "Pridėti turinį"
 msgid "Add domain"
 msgstr "Pridėti domeną"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "Pridėti įskiepį"
 
@@ -128,7 +128,7 @@ msgstr "Pridėti įskiepį"
 msgid "Add product"
 msgstr "Pridėti produktą"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "Pridėti pristatymo būdą"
 
@@ -136,7 +136,7 @@ msgstr "Pridėti pristatymo būdą"
 msgid "Add store details"
 msgstr "Pridėti parduotuvės informaciją"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -154,11 +154,11 @@ msgstr "Pridėk pirmą produktą"
 msgid "Add your first product or service"
 msgstr "Pridėk savo pirmą produktą arba paslaugą"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "Pridėta"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -210,7 +210,7 @@ msgstr "Įvyko netikėta klaida. Bandyk dar kartą."
 msgid "Are you sure you want to delete this page?"
 msgstr "Ar tikrai nori ištrinti šį puslapį?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "Ar tikrai?"
 
@@ -227,11 +227,11 @@ msgstr ""
 "Automatinės ataskaitos, stebėjimo įrankiai, svetainės šablonai ir nuosavybės "
 "perdavimas vienu paspaudimu – projektus valdyk lengvai ir greitai."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "Atgal"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -263,12 +263,12 @@ msgstr ""
 "Per kelias akimirkas sukurk profesionalią, specialiai tau pritaikytą "
 "svetainę. Tereikia kelių paspaudimų, o visu kitu pasirūpins DI."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "Atšaukti"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "Grynieji pinigai pristatymo metu"
 
@@ -300,15 +300,15 @@ msgstr ""
 "Pasirink būdus, kuriais pristatysi užsakymus klientams. Vėliau visada galėsi "
 "pridėti kitų."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "Užbaigti"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "Atlikti veiksmai"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "Konfigūruoti"
 
@@ -324,11 +324,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "Sveikiname, prijungei WooPayments!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "Sveikiname, esi pasiruošęs parodyti savo svetainę!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "Prisijungti"
 
@@ -336,7 +336,7 @@ msgstr "Prisijungti"
 msgid "Connect Amazon to site"
 msgstr "Prie svetainės prijungti Amazon"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "Prijungti domeną"
 
@@ -345,7 +345,7 @@ msgstr "Prijungti domeną"
 msgid "Connect on hPanel"
 msgstr "Prisijungti prie hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -356,16 +356,16 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "Prijunk savo Amazon paskyrą prie svetainės"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "Prijunk savo domeną"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "Pirmiausia prijunk savo domeną"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Prijunk savo domeną prie Hostinger"
 
@@ -378,7 +378,7 @@ msgstr "Domenas prijungtas"
 msgid "Connected your Amazon account"
 msgstr "Amazon paskyra prijungta"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -392,12 +392,12 @@ msgstr ""
 msgid "Continue"
 msgstr "Tęsti"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "Tęsti aktyvaciją"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "Sukurk logotipą"
 
@@ -415,7 +415,7 @@ msgstr "Sukurti naują puslapį"
 msgid "Create a site with AI"
 msgstr "Svetainės kūrimas naudojant DI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "Sukurk svetainę naudodamas DI"
 
@@ -451,7 +451,7 @@ msgstr "Sukurti svetainę su DI"
 msgid "Current page"
 msgstr "Dabartinis puslapis"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "Pritaikyk svetainės išvaizdą ir lauk lankytojų."
 
@@ -461,7 +461,7 @@ msgstr "Pritaikyk svetainės išvaizdą ir lauk lankytojų."
 msgid "Delete page"
 msgstr "Ištrinti puslapį"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "Tiesioginis banko pervedimas"
 
@@ -469,7 +469,7 @@ msgstr "Tiesioginis banko pervedimas"
 msgid "Discover add-ons"
 msgstr "Atrask įskiepius"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "Atmesti"
 
@@ -485,7 +485,7 @@ msgid ""
 msgstr ""
 "Ar turi pastabų ar pasiūlymų, kaip patobulinti mūsų WooCommerce aktyvaciją?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -498,11 +498,11 @@ msgstr ""
 msgid "Edit"
 msgstr "Redaguoti"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "Redaguoti paveikslėlį"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "Redaguoti aprašymą"
 
@@ -522,19 +522,19 @@ msgstr "Redaguoti puslapį"
 msgid "Edit Pages"
 msgstr "Redaguoti puslapius"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "Redaguoti įrašą"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "Redaguoti įrašo aprašymą"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "Redaguoti svetainę"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "Redaguoti puslapio antraštę"
 
@@ -542,7 +542,7 @@ msgstr "Redaguoti puslapio antraštę"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "Efektyvus svetainės valdymas su WordPress įskiepiais"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -577,28 +577,34 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "Išplėsk savo WooCommerce su RedSys mokėjimais."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "Atsakymus į iškilusius klausimus rasi mūsų Žinyne."
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "Rask failų puslapį"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "Baigiamoji sąranka"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "Atlik šiuos veiksmus, kad užbaigtum aktyvaciją"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "Kurti turinį"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 #| msgid "Create content with AI"
 msgid "Generate content with AI"
 msgstr "Kurti turinį su DI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "Įsigyti domeną"
 
@@ -614,7 +620,7 @@ msgstr "Gauti nuolaidą"
 msgid "Get found on Google"
 msgstr "Būk pastebimas Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -626,7 +632,7 @@ msgstr ""
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "Akimirksniu kurk paveikslėlius, tekstą ir SEO raktinius žodžius."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "Susisiek su mūsų specialistais"
 
@@ -660,7 +666,7 @@ msgstr ""
 msgid "Get started"
 msgstr "Pradėti"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "Pradėk!"
 
@@ -668,15 +674,15 @@ msgstr "Pradėk!"
 msgid "Getting your features ready"
 msgstr "Ruošiame funkcijas"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "Eiti į įrašus"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "Eiti į svetainės redagavimo puslapį"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -684,19 +690,19 @@ msgstr ""
 "Google svetainių rinkinys yra svarbus įskiepis, kuris užtikrina, kad "
 "potencialūs lankytojai galėtų rasti tavo svetainę Google."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "Supratau!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "Pagalbos centras"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "Paslėpti įvykdytą"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "Paslėpti sąrašą"
 
@@ -713,7 +719,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostinger akademija"
 
@@ -727,7 +733,7 @@ msgstr "Hostinger Easy Onboarding"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Hostinger Easy Onboarding WordPress įskiepis."
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -739,27 +745,27 @@ msgstr ""
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "Kaip galėtume palengvinti naujos WordPress svetainės kūrimą?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "Kaip sukurti atsarginę WordPress svetainės kopiją?"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "Kaip sukurti EFEKTYVŲ nukreipimo puslapį su WordPress (2024 m.)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "Kaip sukurti WordPress kontaktų puslapį?"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "Kaip sukurti WordPress „Greitai pasirodys“ puslapį (2024 m.)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "Kaip importuoti paveiksliukus į WordPress svetainę?"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "Kaip sukurti svetainę (2024 m.): paprasta, greita ir lengva pamoka"
 
@@ -767,7 +773,7 @@ msgstr "Kaip sukurti svetainę (2024 m.): paprasta, greita ir lengva pamoka"
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "Kaip nukreipti domeno vardą į web hostingą?"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "Kaip nustatyti WordPress SMTP?"
 
@@ -816,11 +822,11 @@ msgstr "https://hostinger.lt"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.lt"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "Nusipirkau domeną, kas dabar?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -829,7 +835,7 @@ msgstr ""
 "Redaguoti paveikslėlį. Gali apkarpyti, pasukti, apversti ar sumažinti "
 "pasirinktą paveikslėlį."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -837,13 +843,13 @@ msgstr ""
 "Kairėje šoninėje juostoje eik į skiltį Išvaizda ir pasirink Konfigūruoti. "
 "Atsidarys konfigūracijos langas."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr ""
 "Kairėje šoninėje juostoje rinkis Sverainės identitetą ir redaguok svetainės "
 "antraštę."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -851,7 +857,7 @@ msgstr ""
 "Kairėje šoninėje juostoje rinkis Svetainės identitetą, tada spausk mygtuką "
 "Pasirinkti svetainės piktogramą. Čia gali įkelti savo prekės ženklo logotipą."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -859,7 +865,7 @@ msgstr ""
 "Kairėje šoninėje juostoje rask mygtuką Medija. Spustelk mygtuką Biblioteka, "
 "kad pamatytum visus vaizdus, kuriuos įkėlei į savo svetainę."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -870,7 +876,7 @@ msgstr ""
 "kiekviena pastraipa, paveikslėlis ar vaizdo įrašas yra rodomas kaip atskiras "
 "turinio „blokas“."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -890,7 +896,7 @@ msgstr ""
 msgid "Installation failed"
 msgstr "Nepavyko įdiegti"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "Įdiegta"
 
@@ -920,11 +926,11 @@ msgstr "Liko keli žingsniai, kad galėtum publikuoti savo e. parduotuvę"
 msgid "Keep current site"
 msgstr "Išlaikyti dabartinę svetainę"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "Žinynas"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "Sužinok apie WordPress"
 
@@ -936,7 +942,7 @@ msgstr ""
 "Susiek Amazon Associates paskyrą su savo svetaine, pradėk reklamuoti "
 "produktus ir gauk atlygį. API rakto nereikia."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache: kaip visiškai optimizuoti WordPress svetainę?"
 
@@ -994,7 +1000,7 @@ msgstr "Nereikia"
 msgid "Not now"
 msgstr "Ne dabar"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr "Dabar <strong>nustatyk</strong> įdiegtus įskiepius."
 
@@ -1011,7 +1017,7 @@ msgstr ""
 "<a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-post\" "
 "target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "Svetainės kūrimas"
@@ -1020,7 +1026,7 @@ msgstr "Svetainės kūrimas"
 msgid "Online store setup"
 msgstr "E. parduotuvės kūrimas"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -1028,15 +1034,15 @@ msgstr ""
 "Užsiregistruok, kad gautum WooCommerce komandos patarimų, nuolaidų ir "
 "rekomendacijų tiesiai į savo pašto dėžutę."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "Arba naudok mokėjimo įskiepius"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "Arba naudok pristatymo įskiepius"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "Kita"
 
@@ -1045,15 +1051,15 @@ msgstr "Kita"
 msgid "Page title:"
 msgstr "Puslapio pavadinimas:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "Mokėjimo būdai"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "Mokėjimo įskiepiai"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "Mokėjimo nustatymai"
 
@@ -1099,25 +1105,24 @@ msgstr "Įskiepis sėkmingai aktyvuotas"
 msgid "Plugin sucessfully installed"
 msgstr "Įskiepis sėkmingai įdiegtas"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "Iš anksto sukurtos svetainės ir temos"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "Peržiūra"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "Peržiūros svetainė"
+msgstr "Peržiūrėti svetainę"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "Svetainės peržiūra"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "Publikuok puslapį"
 
@@ -1125,11 +1130,11 @@ msgstr "Publikuok puslapį"
 msgid "Rate this plugin"
 msgstr "Įvertink šį įskiepį"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "Rekomenduojame"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Kurti Amazon partnerystės svetainę"
 
@@ -1194,11 +1199,11 @@ msgstr "Google svetainių rinkinio nustatymas"
 msgid "Set up payment method"
 msgstr "Nustatyti mokėjimo būdą"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "Nustatyti mokėjimus"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "Nustatyk pristatymą"
 
@@ -1206,7 +1211,7 @@ msgstr "Nustatyk pristatymą"
 msgid "Set up shipping method"
 msgstr "Nustatyti pristatymo būdą"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Svetainės sąrankos rinkinys"
 
@@ -1214,7 +1219,7 @@ msgstr "Svetainės sąrankos rinkinys"
 msgid "Set up your online store"
 msgstr "Sukurk savo internetinę parduotuvę"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "Nustatyk svetainę"
 
@@ -1237,12 +1242,12 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "Google Site Kit aktyvacija"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 #| msgid "Set up my online store"
 msgid "Setup my online store"
 msgstr "Sukurti savo e. parduotuvę"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Svetainės sąranka"
 
@@ -1270,11 +1275,11 @@ msgstr "Lengvai siųsk produktus"
 msgid "Shipping methods"
 msgstr "Pristatymo būdai"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "Pristatymo papildiniai"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "Pristatymo nustatymai"
 
@@ -1282,11 +1287,11 @@ msgstr "Pristatymo nustatymai"
 msgid "Shop locale is empty, please setup store first"
 msgstr "Šiuo metu parduotuvės nėra. Pirmiausia turi sukurti parduotuvę"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "Rodyti sąrašą"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "Praleisti"
 
@@ -1301,7 +1306,7 @@ msgstr "Atsiprašome, yra aktyvavimo klaidų."
 msgid "Sorry, there are validation errors."
 msgstr "Atsiprašome, yra patvirtinimo klaidų."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1325,11 +1330,11 @@ msgid "Take credit card payments on your store using Stripe."
 msgstr ""
 "Priimk mokėjimus kredito kortelėmis savo parduotuvėje naudodamas Stripe."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "Nukreipti mane"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "Papasakok apie savo verslą"
 
@@ -1434,7 +1439,7 @@ msgid ""
 "methods in WooCommerce"
 msgstr "Šis domeno vardas suteikia galimybę naudoti Colissimo pristatymo būdus"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "Šis laukas yra privalomas"
 
@@ -1443,7 +1448,7 @@ msgstr "Šis laukas yra privalomas"
 msgid "Title"
 msgstr "Pavadinimas"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1455,7 +1460,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "Išbandyk Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "Pamokos"
 
@@ -1463,11 +1468,11 @@ msgstr "Pamokos"
 msgid "Unknown error code."
 msgstr "Nežinomas klaidos kodas."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "Įkelti paveikslėlį"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "Įkelk savo logotipą"
 
@@ -1483,11 +1488,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "Peržiūrėti kontrolinį sąrašą"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "Peržiūrėti"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "Žiūrėti mažiau"
 
@@ -1495,11 +1500,11 @@ msgstr "Žiūrėti mažiau"
 msgid "View list"
 msgstr "Peržiūrėti sąrašą"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "Peržiūrėti daugiau"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "Peržiūrėti įskiepius"
 
@@ -1541,22 +1546,19 @@ msgstr ""
 "klaida. Bandyk dar kartą vėliau, o jei problema išlieka, maloniai prašome "
 "kreiptis pagalbos į su mūsų klientų aptarnavimo komandą."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "Šią informaciją naudosime padėdami greičiau sukurti parduotuvę."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Svetainės aktyvacija"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "Svetainės URL"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "Susipažink su WordPress!"
 
@@ -1568,11 +1570,11 @@ msgstr "Kokio tipo produktus ar paslaugas pardavinėsi?"
 msgid "Where is your store located?"
 msgstr "Kur yra tavo parduotuvė?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "WordPress pamokos"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "Taip, praleisti žingsnį"
 
@@ -1581,7 +1583,7 @@ msgstr "Taip, praleisti žingsnį"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "Naudoji <b>%s</b> PHP versiją."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr "Gali nustatyti pristatymo būdą neįdiegęs papildomų įskiepių."
@@ -1600,7 +1602,7 @@ msgstr ""
 "domenų teikėjai turi unikalias vardų serverių keitimo procedūras. Čia "
 "pateikiami Hostinger vardų serveriai:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
@@ -1608,7 +1610,7 @@ msgstr ""
 "Visą įrašą gali peržiūrėti redaktoriuje. Rask aprašymo dalį ir pakeisk ją "
 "pagal savo pageidavimus."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1649,7 +1651,7 @@ msgid ""
 msgstr ""
 "Naujoji svetainė pakeis dabartinę. Naudok tą patį aprašymą arba jį pakeisk."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "Tavo pažanga"
 
@@ -1657,7 +1659,7 @@ msgstr "Tavo pažanga"
 msgid "Your store name"
 msgstr "Tavo parduotuvės pavadinimas"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1669,10 +1671,10 @@ msgstr ""
 msgid "You’ll love these great deals that were handpicked just for you."
 msgstr "Tau patiks šie, specialiai tau atrinkti, puikūs pasiūlymai."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "Sukūrei savo e. parduotuvę!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 Sveikiname prisijungus prie WordPress!"

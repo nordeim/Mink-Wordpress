@@ -519,18 +519,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHPCSExtra.git",
-                "reference": "c3c5741543bc67af3922fc5565ff7d2f02f721b4"
+                "reference": "a4c2112beef6aa8e80817638d8fc354c83fc7256"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHPCSExtra/zipball/c3c5741543bc67af3922fc5565ff7d2f02f721b4",
-                "reference": "c3c5741543bc67af3922fc5565ff7d2f02f721b4",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHPCSExtra/zipball/a4c2112beef6aa8e80817638d8fc354c83fc7256",
+                "reference": "a4c2112beef6aa8e80817638d8fc354c83fc7256",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.4",
                 "phpcsstandards/phpcsutils": "^1.0.9",
-                "squizlabs/php_codesniffer": "^3.8.0"
+                "squizlabs/php_codesniffer": "^3.12.1"
             },
             "require-dev": {
                 "php-parallel-lint/php-console-highlighter": "^1.0",
@@ -594,7 +594,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-03-20T17:18:17+00:00"
+            "time": "2025-04-21T02:20:37+00:00"
         },
         {
             "name": "phpcsstandards/phpcsutils",
@@ -695,12 +695,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "84fccb486f12384e5ef2d93b57ef78ca9c191ee0"
+                "reference": "23feb19c0342c95d01e648b8062e1f24e4390a16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/84fccb486f12384e5ef2d93b57ef78ca9c191ee0",
-                "reference": "84fccb486f12384e5ef2d93b57ef78ca9c191ee0",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/23feb19c0342c95d01e648b8062e1f24e4390a16",
+                "reference": "23feb19c0342c95d01e648b8062e1f24e4390a16",
                 "shasum": ""
             },
             "require": {
@@ -772,7 +772,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-04-14T10:24:04+00:00"
+            "time": "2025-04-28T01:15:05+00:00"
         },
         {
             "name": "wp-coding-standards/wpcs",

@@ -11,12 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-08-19T08:23:05+00:00\n"
-"PO-Revision-Date: 2025-04-17 10:59+0000\n"
+"PO-Revision-Date: 2025-04-28 04:33+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
 "Language: he_IL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -43,11 +43,11 @@ msgstr "%s כבר פעיל"
 msgid "%s missing or empty"
 msgstr "%s חסר או ריק"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(כרטיס אשראי/דביט)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -55,12 +55,12 @@ msgstr ""
 "<strong>כמעט סיימנו!</strong> נשארו רק כמה צעדים עד שהאתר שלכם מוכן להצלחה "
 "אונליין."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr "<strong>השתמשו באמצעי-תשלום מובנים</strong> - אין צורך בתוספים נוספים."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr "<strong>השתמשו בשיטות משלוח מובנות</strong> - אין צורך בתוספים נוספים."
@@ -69,7 +69,7 @@ msgstr "<strong>השתמשו בשיטות משלוח מובנות</strong> - א�
 msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr "קבלו תשלומים באמצעות כרטיס אשראי. נהלו עסקאות מתוך WordPress."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "גש לזהות אתר וערוך כותרת"
 
@@ -82,11 +82,11 @@ msgstr "פעולה נכשלה. נסו שנית או צרו קשר עם התמי�
 msgid "Actions"
 msgstr "פעולות"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "הפעל"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "הוספה"
 
@@ -94,15 +94,15 @@ msgstr "הוספה"
 msgid "Add a domain"
 msgstr "הוספת דומיין"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "הוסף עמוד חדש"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "הוסף כותרת"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "הוסף תוכן"
 
@@ -110,7 +110,7 @@ msgstr "הוסף תוכן"
 msgid "Add domain"
 msgstr "הוספת דומיין"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "הוסף תוסף"
 
@@ -118,7 +118,7 @@ msgstr "הוסף תוסף"
 msgid "Add product"
 msgstr "הוסף מוצר"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "הוסף שיטת משלוח"
 
@@ -126,7 +126,7 @@ msgstr "הוסף שיטת משלוח"
 msgid "Add store details"
 msgstr "הוספת פרטי חנות"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -144,11 +144,11 @@ msgstr "הוסיפו את המוצר הראשון שלכם"
 msgid "Add your first product or service"
 msgstr "הוסיפו את המוצר או השירות הראשונים שלכם"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "נוסף"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -198,7 +198,7 @@ msgstr "ארעה שגיאה בלתי-צפויה. נא נסו שנית."
 msgid "Are you sure you want to delete this page?"
 msgstr "האם אתם בטוחים שברצונכם למחוק את עמוד זה?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "האם אתם בטוחים?"
 
@@ -215,11 +215,11 @@ msgstr ""
 "דוחות אוטומטיים, כלי ניטור, הגדרות אתר קבועות מראש, והעברות בעלות בקליק אחד -"
 " נהלו את כל הפרויקטים שלכם במהירות ובקלות."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "חזרה"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -251,12 +251,12 @@ msgstr ""
 "בנו אתר מקצועי ומעוצב-אישית תוך דקות ספורות. רק כמה קליקים ו-AI דואג לכל "
 "השאר."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "ביטול"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "תשלום במזומן בעת קבלה"
 
@@ -288,15 +288,15 @@ msgstr ""
 "בחרו בדרכים בהם תרצו לשלוח הזמנות ללקוחות. תוכלו תמיד להוסיף דרכים נוספות "
 "אחר כך."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "השלמה"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "צעדים שהושלמו"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "הגדרה"
 
@@ -312,11 +312,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "מזל טוב, חיברתם את WooPayments!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "מזל טוב, אתם מוכנים להשוויץ באתר שלכם!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "התחברות"
 
@@ -324,7 +324,7 @@ msgstr "התחברות"
 msgid "Connect Amazon to site"
 msgstr "חיבור Amazon לאתר"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "חבר דומיין עכשיו"
 
@@ -333,7 +333,7 @@ msgstr "חבר דומיין עכשיו"
 msgid "Connect on hPanel"
 msgstr "חיבור על hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -343,16 +343,16 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "חברו את חשבון Amazon שלכם לאתר"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "חיבור הדומיין שלכם"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "חיבור הדומיין שלכם קודם"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "חיבור הדומיין שלכם ל-Hostinger"
 
@@ -365,7 +365,7 @@ msgstr "דומיין חובר"
 msgid "Connected your Amazon account"
 msgstr "חשבון Amazon שלכם חובר"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -378,12 +378,12 @@ msgstr ""
 msgid "Continue"
 msgstr "המשך"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "המשך הגדרה"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "צור לוגו"
 
@@ -401,7 +401,7 @@ msgstr "צור עמוד חדש"
 msgid "Create a site with AI"
 msgstr "צור אתר עם AI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "צרו אתר עם AI"
 
@@ -435,7 +435,7 @@ msgstr "צור אתר עם AI"
 msgid "Current page"
 msgstr "עמוד נוכחי"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "התאימו אישית את מראה האתר שלכם והתחילו להזמין מבקרים."
 
@@ -445,7 +445,7 @@ msgstr "התאימו אישית את מראה האתר שלכם והתחילו �
 msgid "Delete page"
 msgstr "מחק עמוד"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "העברת בנק ישירה"
 
@@ -453,7 +453,7 @@ msgstr "העברת בנק ישירה"
 msgid "Discover add-ons"
 msgstr "גלו תוספים"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "דחייה"
 
@@ -466,7 +466,7 @@ msgid ""
 "Do you have any comments/suggestions to improve our WooCommerce onboarding?"
 msgstr "האם יש לכם הערות/הצעות לשיפור הדרכת ה-WooCommerce שלנו?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -479,11 +479,11 @@ msgstr ""
 msgid "Edit"
 msgstr "עריכה"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "ערוך תמונה"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "ערוך תיאור"
 
@@ -503,19 +503,19 @@ msgstr "ערוך עמוד"
 msgid "Edit Pages"
 msgstr "ערוך עמודים"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "ערוך פוסט"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "ערוך תיאור פוסט"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "ערוך אתר"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "ערוך כותרת אתר"
 
@@ -523,7 +523,7 @@ msgstr "ערוך כותרת אתר"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "ניהול אתר יעיל עם תוספי WordPress"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -557,27 +557,32 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "מרחיב את WooCommerce עם שער RedSys."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "מצאו את התשובות שאתם צריכים במאגר הידע שלנו."
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "מצא את דף המדיה"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+msgid "Finish Setup"
+msgstr ""
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "עקבו אחר צעדים אלה כדי להשלים את ההגדרה שלכם"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "חולל תוכן"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 msgid "Generate content with AI"
 msgstr "חולל תוכן עם AI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "השג דומיין"
 
@@ -593,7 +598,7 @@ msgstr "השג הנחה"
 msgid "Get found on Google"
 msgstr "קבלו מציאות ב-Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -605,7 +610,7 @@ msgstr ""
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "קבלו תמונות, טקסט, ומילות-מפתח SEO שנוצרו עבורכם באופן מיידי."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "צרו קשר עם המומחים שלנו בזמן-אמת"
 
@@ -637,7 +642,7 @@ msgstr ""
 msgid "Get started"
 msgstr "התחילו"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "התחילו!"
 
@@ -645,15 +650,15 @@ msgstr "התחילו!"
 msgid "Getting your features ready"
 msgstr "אנחנו מכינים את הפיצ'רים שלכם"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "עבור אל פוסטים"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "עבור אל עמוד ההתאמה-האישית"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -661,19 +666,19 @@ msgstr ""
 "Google Site Kit הוא תוסף חיוני שמוודא שמבקרים פוטנציאלים יכולים למצוא את "
 "האתר שלכם ב-Google."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "יש!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "מרכז תמיכה"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "הסתר פריטים שהושלמו"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "הסתר רשימה"
 
@@ -690,7 +695,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "אקדמיית Hostinger"
 
@@ -704,7 +709,7 @@ msgstr "הדרכה קלה של Hostinger"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "תוסף WordPress להדרכה קלה של Hostinger."
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -716,27 +721,27 @@ msgstr ""
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "כיצד היינו יכולים להפוך יצירת אתר WordPress חדש לקל יותר?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "איך לגבות אתר WordPress"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "כיצד לבנות אתר נחיתה אפקטיבי עם WordPress (2024)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "כיצד ליצור עמוד יצירת קשר ב-WordPress"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "כיצד ליצור עמוד 'יגיע בקרוב' ב-WordPress (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "כיצד לייבא תמונות לתוך אתר WordPress"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "כיצד ליצור אתר (2024): מדריך פשוט, מהיר, וקל"
 
@@ -744,7 +749,7 @@ msgstr "כיצד ליצור אתר (2024): מדריך פשוט, מהיר, וקל
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "כיצד לכוון שם דומיין לאחסון אתר"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "כיצד להגדיר WordPress SMTP"
 
@@ -792,11 +797,11 @@ msgstr "https://hostinger.co.il"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.co.il"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "רכשתי דומיין, מה עכשיו?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -804,7 +809,7 @@ msgstr ""
 "אם אתם רוצים לערוך את התמונה, הקליקו על התמונה הרצויה ולחצו על כפתור 'ערוך "
 "תמונה'. עכשיו תוכלו לחתוך, לסובב, להפוך או להגדיל את התמונה הנבחרת."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -812,11 +817,11 @@ msgstr ""
 "בסרגל הצידי השמאלי, הקליקו 'מראה' (Appearance) כדי לפתוח את התפריט. באיזור "
 "ה'מראה', הקליקו 'התאם אישית'. עמוד ההתאמה האישית ייפתח."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr "בסרגל הצידי השמאלי, הקליקו 'זהות אתר' וערכו את כותרת האתר שלכם."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -824,7 +829,7 @@ msgstr ""
 "בסרגל הצידי השמאלי, הקליקו 'זהות אתר', אז הקליקו על כפתור 'בחירת אייקון אתר'."
 " כאן, תוכלו להעלות את לוגו המותג שלכם."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -832,7 +837,7 @@ msgstr ""
 "בסרגל הצידי השמאלי, מצאו את כפתור המדיה. הקליקו על כפתור 'ספריה' כדי לראות "
 "את כל התמונות שהעליתם לאתר שלכם."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -842,7 +847,7 @@ msgstr ""
 "את עמוד עורך WordPress. כל פסקה, תמונה, או סרטון בעורך WordPress מוצג בתור "
 "'בלוק' של תוכן."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -860,7 +865,7 @@ msgstr "הגבירו את החשיפה שלכם ע\"י הפעלת אפשרות �
 msgid "Installation failed"
 msgstr "ההתקנה כשלה"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "מותקן"
 
@@ -889,11 +894,11 @@ msgstr "רק עוד כמה צעדים להשקת החנות המקוונת של�
 msgid "Keep current site"
 msgstr "שמור אתר נוכחי"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "מאגר ידע"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "למדו WordPress"
 
@@ -905,7 +910,7 @@ msgstr ""
 "קשרו את חשבון Amazon Associates שלכם לאתר שלכם, התחילו לשווק מוצרים, "
 "והרוויחו פרסים. אין צורך במפתח API."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache: איך להגיע ל-100% אופטימיזציה ב-WordPress"
 
@@ -961,7 +966,7 @@ msgstr "לא נחוץ"
 msgid "Not now"
 msgstr "לא עכשיו"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr "עכשיו <strong>סיימו להגדיר</strong> את התוספים שהתקנתם."
 
@@ -973,7 +978,7 @@ msgstr ""
 "ב-<a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "הדרכה"
@@ -982,7 +987,7 @@ msgstr "הדרכה"
 msgid "Online store setup"
 msgstr "הגדרת חנות מקוונת"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -990,15 +995,15 @@ msgstr ""
 "הצטרפו כדי לקבל טיפים, הנחות, והמלצות מצוות WooCommerce ישירות לתיבת הדואר "
 "הנכנס שלכם."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "או השתמשו בתוספי תשלומים"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "או השתמשו בתוספי משלוחים"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "אחר"
 
@@ -1007,15 +1012,15 @@ msgstr "אחר"
 msgid "Page title:"
 msgstr "כותרת עמוד:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "אפשרויות תשלום"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "תוספי תשלומים"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "הגדרות תשלומים"
 
@@ -1061,24 +1066,24 @@ msgstr "התוסף הופעל בהצלחה"
 msgid "Plugin sucessfully installed"
 msgstr "התוסף הותקן בהצלחה"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "אתרים וערכות נושא מוכנים מראש"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "תצוגה מקדימה"
 
-#: includes/Admin/Assets.php:340
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr ""
+msgstr "תצוגה מקדימה לאתר"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "תצוגה מקדימה לאתר"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "השק את העמוד"
 
@@ -1086,11 +1091,11 @@ msgstr "השק את העמוד"
 msgid "Rate this plugin"
 msgstr "דירוג התוסף הזה"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "מומלץ עבורכם"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "הפעל אתר Amazon Affiliate"
 
@@ -1154,11 +1159,11 @@ msgstr "הגדרת Google Site Kit"
 msgid "Set up payment method"
 msgstr "הגדר אמצעי תשלום"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "הגדר תשלומים"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "הגדר משלוחים"
 
@@ -1166,7 +1171,7 @@ msgstr "הגדר משלוחים"
 msgid "Set up shipping method"
 msgstr "הגדרת שיטת משלוח"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "הגדרת Site Kit"
 
@@ -1174,7 +1179,7 @@ msgstr "הגדרת Site Kit"
 msgid "Set up your online store"
 msgstr "הגדרת החנות המקוונת שלכם"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "הגדירו את האתר שלכם"
 
@@ -1194,11 +1199,11 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "הגדרת Google Site Kit"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 msgid "Setup my online store"
 msgstr "הגדרת החנות המקוונת שלי"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "הגדרת אתר"
 
@@ -1226,11 +1231,11 @@ msgstr "שלחו מוצרים בקלות"
 msgid "Shipping methods"
 msgstr "שיטות משלוח"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "תוספי משלוחים"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "הגדרת משלוחים"
 
@@ -1238,11 +1243,11 @@ msgstr "הגדרת משלוחים"
 msgid "Shop locale is empty, please setup store first"
 msgstr "לוקאל החנות ריק, אנא הגדירו חנות קודם"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "הצג רשימה"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "דלג"
 
@@ -1257,7 +1262,7 @@ msgstr "מצטערים, יש שגיאות הפעלה."
 msgid "Sorry, there are validation errors."
 msgstr "מצטערים, יש שגיאות אימות."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1280,11 +1285,11 @@ msgstr "מיקום לוקאל חנות לא נמצא"
 msgid "Take credit card payments on your store using Stripe."
 msgstr "קבלו תשלומי כרטיס אשראי בחנות שלכם עם Stripe."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "קח אותי לשם"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "ספרו לנו קצת אודות העסק שלכם"
 
@@ -1383,7 +1388,7 @@ msgid ""
 "methods in WooCommerce"
 msgstr "תוסף זה מאפשר לכם להשתמש בשיטות המשלוח של Colissimo ב-WooCommerce."
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "שדה זה הכרחי"
 
@@ -1392,7 +1397,7 @@ msgstr "שדה זה הכרחי"
 msgid "Title"
 msgstr "כותרת"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1403,7 +1408,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "נסו את Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "מדריכים"
 
@@ -1411,11 +1416,11 @@ msgstr "מדריכים"
 msgid "Unknown error code."
 msgstr "קוד שגיאה בלתי-ידועה."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "העלו תמונה"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "העלו את הלוגו שלכם"
 
@@ -1431,11 +1436,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "הצג צ'ק-ליסט"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "הצג פריטים שהושלמו"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "הצג פחות"
 
@@ -1443,11 +1448,11 @@ msgstr "הצג פחות"
 msgid "View list"
 msgstr "הצג רשימה"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "הצג יותר"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "הצג תוספים"
 
@@ -1488,22 +1493,19 @@ msgstr ""
 "אנחנו מתנצלים על אי-הנוחות. תהליך יצירת התוכן AI נתקל בשגיאת שרת. אנא נסו "
 "שנית מאוחר יותר, ואם הבעיה נמשכת, אנא צרו קשר עם צוות התמיכה שלנו."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "אנחנו נשתמש במידע הזה כדי לעזור לכם להגדיר את החנות שלכם מהר יותר."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "הגדרת אתר"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "URL של האתר"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "ברוכים הבאים ל-WordPress!"
 
@@ -1515,11 +1517,11 @@ msgstr "אילו סוגים של מוצרים או שירותים תמכרו?"
 msgid "Where is your store located?"
 msgstr "היכן ממוקמת החנות שלכם?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "מדריכי WordPress"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "כן, דלג צעד"
 
@@ -1528,7 +1530,7 @@ msgstr "כן, דלג צעד"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "אתם מריצים <b>%s</b> גרסת PHP."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr "אתם יכולים גם להגדיר שיטת משלוח מבלי להתקין תוספים נוספים."
@@ -1546,14 +1548,14 @@ msgstr ""
 "ניתן לחבר דומיין ל-Hostinger ע\"י שינוי שמות השרתים. לספקיות דומיין שונות יש "
 "הליכים ייחודיים לשינוי שמות שרתים. הנה שמות השרתים של Hostinger:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
 msgstr ""
 "ניתן לראות את כל הפוסט בעורך. מצאו את חלק התיאור ושנו אותו לפי העדפתכם."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1592,7 +1594,7 @@ msgid ""
 "change it."
 msgstr "האתר החדש שלכם יחליף את האתר הנוכחי. השתמשו באותו תיאור או שנו אותו."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "ההתקדמות שלכם"
 
@@ -1600,7 +1602,7 @@ msgstr "ההתקדמות שלכם"
 msgid "Your store name"
 msgstr "שם החנות שלכם"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1612,10 +1614,10 @@ msgstr ""
 msgid "You’ll love these great deals that were handpicked just for you."
 msgstr "בחרנו הטבות מדהימות במיוחד בשבילכם."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "סיימתם להגדיר את החנות המקוונת שלכם!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋ברוכים הבאים ל-WordPress"

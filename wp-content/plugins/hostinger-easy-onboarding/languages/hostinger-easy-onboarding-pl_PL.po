@@ -11,13 +11,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-08-19T08:23:05+00:00\n"
-"PO-Revision-Date: 2025-04-17 11:01+0000\n"
+"PO-Revision-Date: 2025-04-28 04:38+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -44,11 +44,11 @@ msgstr "%s jest już aktywny"
 msgid "%s missing or empty"
 msgstr "brakuje %s lub jest on pusty"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(Karta kredytowa/debetowa)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -56,14 +56,14 @@ msgstr ""
 "<strong>Już prawie! </strong> Jeszcze tylko kilka kroków, aby Twoja strona "
 "była gotowa na sukces online."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr ""
 "<strong>Używaj wbudowanych metod płatności</strong> - nie potrzebujesz "
 "dodatkowych wtyczek."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr ""
@@ -75,7 +75,7 @@ msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr ""
 "Akceptuj płatności kartą kredytową. Zarządzaj transakcjami w WordPressie."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "Uzyskaj dostęp do tożsamości strony i edytuj tytuł"
 
@@ -90,11 +90,11 @@ msgstr ""
 msgid "Actions"
 msgstr "Działania"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "Aktywuj"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "Dodaj"
 
@@ -102,15 +102,15 @@ msgstr "Dodaj"
 msgid "Add a domain"
 msgstr "Dodaj domenę"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "Dodaj nową stronę"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "Dodaj tytuł"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "Dodaj treść"
 
@@ -118,7 +118,7 @@ msgstr "Dodaj treść"
 msgid "Add domain"
 msgstr "Dodaj domenę"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "Dodaj wtyczkę"
 
@@ -126,7 +126,7 @@ msgstr "Dodaj wtyczkę"
 msgid "Add product"
 msgstr "Dodaj produkt"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "Dodaj metodę wysyłki"
 
@@ -134,7 +134,7 @@ msgstr "Dodaj metodę wysyłki"
 msgid "Add store details"
 msgstr "Dodaj szczegóły sklepu"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -152,11 +152,11 @@ msgstr "Dodaj swój pierwszy produkt"
 msgid "Add your first product or service"
 msgstr "Dodaj swój pierwszy produkt lub usługę"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "Dodano"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -211,7 +211,7 @@ msgstr "Wystąpił nieoczekiwany błąd. Spróbuj ponownie."
 msgid "Are you sure you want to delete this page?"
 msgstr "Czy na pewno chcesz usunąć tę stronę?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "Na pewno?"
 
@@ -229,11 +229,11 @@ msgstr ""
 "stron i transfery własności jednym kliknięciem - zarządzaj wszystkimi "
 "projektami szybko i łatwo."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "Z powrotem"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -247,7 +247,7 @@ msgid ""
 "Build a custom-designed site in minutes with professional templates. You’ll "
 "be ready to go live in a few clicks."
 msgstr ""
-"Zbuduj niestandardową stronę w kilka minut dzięki profesjonalnym szablonom. "
+"Zbuduj niestandardową stronę w parę minut dzięki profesjonalnym szablonom. "
 "Wystarczy kilka kliknięć, by zacząć działać."
 
 #: includes/Admin/Onboarding/Onboarding.php:602
@@ -255,7 +255,7 @@ msgid ""
 "Build a professional, custom-designed site in moments. Choose from 140+ "
 "templates or use AI."
 msgstr ""
-"Zbuduj profesjonalną, niestandardową stronę w kilka chwil. Wybierz spośród "
+"Zbuduj profesjonalną, niestandardową stronę w parę chwil. Wybierz spośród "
 "ponad 140 szablonów lub użyj AI."
 
 #: includes/Admin/Onboarding/Onboarding.php:506
@@ -263,15 +263,15 @@ msgid ""
 "Build a professional, custom-designed site in moments. Just a few clicks and "
 "AI handles the rest."
 msgstr ""
-"Zbuduj profesjonalną, niestandardową stronę w kilka chwil. Wystarczy kilka "
+"Zbuduj profesjonalną, niestandardową stronę w parę chwil. Wystarczy kilka "
 "kliknięć, a AI zajmie się resztą."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "Anuluj"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "Za pobraniem"
 
@@ -303,15 +303,15 @@ msgstr ""
 "Wybierz sposoby, w jakie chcesz wysyłać zamówienia do klientów. Zawsze "
 "możesz dodać inne później."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "Zakończ"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "Zakończone kroki"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "Konfiguruj"
 
@@ -327,11 +327,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "Gratulacje, udało Ci się połączyć z WooPayments!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "Gratulacje, teraz możesz pochwalić się swoją stroną!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "Połącz"
 
@@ -339,7 +339,7 @@ msgstr "Połącz"
 msgid "Connect Amazon to site"
 msgstr "Połącz Amazon ze stroną internetową"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "Połącz domenę teraz"
 
@@ -348,7 +348,7 @@ msgstr "Połącz domenę teraz"
 msgid "Connect on hPanel"
 msgstr "Połącz w hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -359,16 +359,16 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "Połącz swoje konto Amazon ze stroną internetową"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "Połącz swoją domenę"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "Najpierw podłącz swoją domenę"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Połącz swoją domenę z Hostinger"
 
@@ -381,7 +381,7 @@ msgstr "Podłączono domenę"
 msgid "Connected your Amazon account"
 msgstr "Podłączono Twoje konto Amazon"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -395,12 +395,12 @@ msgstr ""
 msgid "Continue"
 msgstr "Kontynuuj"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "Kontynuuj konfigurację"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "Stwórz logo"
 
@@ -418,7 +418,7 @@ msgstr "Utwórz nową stronę"
 msgid "Create a site with AI"
 msgstr "Utwórz stronę z AI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "Utwórz stronę internetową z pomocą AI"
 
@@ -452,7 +452,7 @@ msgstr "Utwórz stronę z AI"
 msgid "Current page"
 msgstr "Bieżąca strona"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "Dostosuj wygląd swojej strony i zacznij witać odwiedzających."
 
@@ -462,7 +462,7 @@ msgstr "Dostosuj wygląd swojej strony i zacznij witać odwiedzających."
 msgid "Delete page"
 msgstr "Usuń stronę"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "Bezpośredni przelew bankowy"
 
@@ -470,7 +470,7 @@ msgstr "Bezpośredni przelew bankowy"
 msgid "Discover add-ons"
 msgstr "Odkryj dodatki add-on"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "Odrzuć"
 
@@ -485,7 +485,7 @@ msgid ""
 msgstr ""
 "Czy masz jakieś uwagi/sugestie dotyczące usprawnienia wdrażania WooCommerce?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -499,11 +499,11 @@ msgstr ""
 msgid "Edit"
 msgstr "Edytuj"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "Edytuj obraz"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "Edytuj opis"
 
@@ -523,19 +523,19 @@ msgstr "Edytuj stronę"
 msgid "Edit Pages"
 msgstr "Edytuj strony"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "Edytuj post"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "Edytuj opis posta"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "Edytuj stronę internetową"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "Edytuj tytuł strony"
 
@@ -543,7 +543,7 @@ msgstr "Edytuj tytuł strony"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "Wydajne zarządzanie stroną za pomocą dodatków WordPress"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -577,27 +577,33 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "Rozszerza WooCommerce o bramkę RedSys."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "Znajdź odpowiedzi, których potrzebujesz w naszej Bazie wiedzy"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "Znajdź stronę Media"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "Zakończ konfigurację"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "Aby dokończyć konfigurację, wykonaj poniższe kroki"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "Generuj treść"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 msgid "Generate content with AI"
 msgstr "Generuj treść z AI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "Zdobądź domenę"
 
@@ -613,7 +619,7 @@ msgstr "Zdobądź zniżkę"
 msgid "Get found on Google"
 msgstr "Daj się znaleźć w Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -627,7 +633,7 @@ msgstr ""
 "Otrzymaj natychmiast obrazy, teksty i słowa kluczowe SEO utworzone "
 "specjalnie dla Ciebie."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "Skontaktuj się z naszymi specjalistami na żywo"
 
@@ -661,7 +667,7 @@ msgstr ""
 msgid "Get started"
 msgstr "Rozpocznij"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "Rozpocznij!"
 
@@ -669,15 +675,15 @@ msgstr "Rozpocznij!"
 msgid "Getting your features ready"
 msgstr "Przygotowywanie funkcji"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "Idź do Postów"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "Przejdź do strony Dostosuj"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -685,19 +691,19 @@ msgstr ""
 "Google Site Kit to niezbędna wtyczka, która zapewnia, że potencjalni "
 "odwiedzający mogą znaleźć Twoją witrynę w Google."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "Rozumiem!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "Centrum pomocy"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "Ukryj ukończone"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "Ukryj listę"
 
@@ -714,7 +720,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostinger Academy"
 
@@ -728,7 +734,7 @@ msgstr "Hostinger Easy Onboarding"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Wtyczka Hostinger Easy Onboarding WordPress."
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -740,27 +746,27 @@ msgstr ""
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "Jak możemy ułatwić tworzenie nowej strony WordPress?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "Jak wykonać kopię zapasową strony WordPress"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "Jak zbudować SKUTECZNĄ stronę docelową za pomocą WordPress (2024)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "Jak utworzyć stronę kontaktową WordPress"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "Jak utworzyć stronę Coming Soon w WordPress (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "Jak importować obrazy do strony WordPress"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr ""
 "Jak stworzyć stronę internetową (2024): Prosty, szybki i łatwy samouczek"
@@ -769,7 +775,7 @@ msgstr ""
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "Jak wskazać nazwę domeny na hosting internetowy"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "Jak skonfigurować WordPress SMTP"
 
@@ -820,11 +826,11 @@ msgstr "https://hostinger.com"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.com"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "Kupiłem domenę, co teraz?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -833,7 +839,7 @@ msgstr ""
 "Edytuj obraz. Teraz możesz przyciąć, obrócić, przerzucić lub skalować "
 "wybrany obraz."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -841,13 +847,13 @@ msgstr ""
 "Na lewym pasku bocznym kliknij Wygląd, aby rozwinąć menu. W sekcji Wygląd "
 "kliknij Dostosuj. Otworzy się strona Dostosuj."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr ""
 "Na pasku bocznym po lewej stronie kliknij Tożsamość strony i edytuj tytuł "
 "swojej strony."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -855,7 +861,7 @@ msgstr ""
 "Na lewym pasku bocznym kliknij Tożsamość strony, a następnie kliknij "
 "przycisk Wybierz ikonę strony. Tutaj możesz przesłać logo swojej marki."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -864,7 +870,7 @@ msgstr ""
 "przycisk Biblioteka, aby zobaczyć wszystkie obrazy przesłane na Twoją stronę "
 "internetową."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -874,7 +880,7 @@ msgstr ""
 "Zobaczysz edytor stron WordPress. Każdy akapit, obraz lub wideo w edytorze "
 "WordPress jest prezentowany jako „blok” treści."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -894,7 +900,7 @@ msgstr ""
 msgid "Installation failed"
 msgstr "Instalacja nie powiodła się"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "Zainstalowano"
 
@@ -924,11 +930,11 @@ msgstr "Tylko kilka kroków do uruchomienia sklepu internetowego"
 msgid "Keep current site"
 msgstr "Zachowaj obecną stronę"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "Baza wiedzy"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "Nauka WordPress"
 
@@ -940,7 +946,7 @@ msgstr ""
 "Połącz swoje konto Amazon Associates ze swoją stroną internetową, zacznij "
 "promować produkty i zdobywaj nagrody. Klucz API nie jest wymagany."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed ​​Cache: Jak uzyskać 100% optymalizacji WordPress"
 
@@ -954,8 +960,8 @@ msgid ""
 "Make sure that your website shows up when visitors are looking for your "
 "business on Google."
 msgstr ""
-"Upewnij się, że Twoja strona pojawia się, gdy odwiedzający szukają Twojej "
-"firmy w Google."
+"Upewnij się, że Twoja strona pojawia się, gdy odwiedzający wyszukują Twoją "
+"firmę w Google."
 
 #: includes/Admin/Onboarding/Onboarding.php:415
 msgid "Manage"
@@ -998,7 +1004,7 @@ msgstr "Niepotrzebne"
 msgid "Not now"
 msgstr "Nie teraz"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr "Teraz <strong>dokończ konfigurację</strong> zainstalowanych wtyczek."
 
@@ -1010,7 +1016,7 @@ msgstr ""
 "na <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "Onboarding"
@@ -1019,7 +1025,7 @@ msgstr "Onboarding"
 msgid "Online store setup"
 msgstr "Konfiguracja sklepu internetowego"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -1027,15 +1033,15 @@ msgstr ""
 "Zapisz się, aby otrzymywać porady, rabaty i rekomendacje od zespołu "
 "WooCommerce bezpośrednio na swoją skrzynkę odbiorczą."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "Lub użyj wtyczek płatności"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "Lub użyj wtyczek wysyłkowych"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "Inne"
 
@@ -1044,15 +1050,15 @@ msgstr "Inne"
 msgid "Page title:"
 msgstr "Tytuł strony:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "Metody płatności"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "Wtyczki płatności"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "Ustawienia płatności"
 
@@ -1098,25 +1104,24 @@ msgstr "Wtyczka została pomyślnie aktywowana"
 msgid "Plugin sucessfully installed"
 msgstr "Wtyczka została pomyślnie zainstalowana"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "Gotowe strony internetowe i motywy"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "Podgląd"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "Strona podglądu"
+msgstr "Podgląd strony"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "Podgląd strony internetowej"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "Opublikuj stronę"
 
@@ -1124,11 +1129,11 @@ msgstr "Opublikuj stronę"
 msgid "Rate this plugin"
 msgstr "Oceń tę wtyczkę"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "Polecane dla Ciebie"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Prowadź stronę partnerską Amazon"
 
@@ -1193,11 +1198,11 @@ msgstr "Konfiguracja Google Site Kit"
 msgid "Set up payment method"
 msgstr "Ustaw metodę płatności"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "Skonfiguruj płatności"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "Konfiguracja wysyłki"
 
@@ -1205,7 +1210,7 @@ msgstr "Konfiguracja wysyłki"
 msgid "Set up shipping method"
 msgstr "Konfiguracja metody wysyłki"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Zestaw do konfiguracji strony"
 
@@ -1213,7 +1218,7 @@ msgstr "Zestaw do konfiguracji strony"
 msgid "Set up your online store"
 msgstr "Konfiguracja sklepu internetowego"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "Konfiguracja strony"
 
@@ -1233,11 +1238,11 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "Konfiguracja Google Site Kit"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 msgid "Setup my online store"
 msgstr "Skonfiguruj mój sklep internetowy"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Konfiguracja strony internetowej"
 
@@ -1265,11 +1270,11 @@ msgstr "Wysyłaj produkty z łatwością"
 msgid "Shipping methods"
 msgstr "Metody wysyłki"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "Wtyczki wysyłkowe"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "Ustawienia wysyłki"
 
@@ -1277,11 +1282,11 @@ msgstr "Ustawienia wysyłki"
 msgid "Shop locale is empty, please setup store first"
 msgstr "Lokalizacja sklepu jest pusta, najpierw skonfiguruj sklep"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "Pokaż listę"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "Pomiń"
 
@@ -1296,7 +1301,7 @@ msgstr "Przepraszamy, wystąpiły błędy aktywacji."
 msgid "Sorry, there are validation errors."
 msgstr "Przepraszamy, wystąpiły błędy walidacji."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1319,11 +1324,11 @@ msgstr "Nie znaleziono lokalizacji sklepu"
 msgid "Take credit card payments on your store using Stripe."
 msgstr "Przyjmuj płatności kartą kredytową w swoim sklepie za pomocą Stripe."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "Zabierz mnie tam"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "Opowiedz nam trochę o swojej firmie"
 
@@ -1431,7 +1436,7 @@ msgstr ""
 "To rozszerzenie daje Ci możliwość wykorzystania metod wysyłki Colissimo w "
 "WooCommerce"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "To pole jest wymagane"
 
@@ -1440,7 +1445,7 @@ msgstr "To pole jest wymagane"
 msgid "Title"
 msgstr "Tytuł"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1452,7 +1457,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "Wypróbuj Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "Samouczki"
 
@@ -1460,11 +1465,11 @@ msgstr "Samouczki"
 msgid "Unknown error code."
 msgstr "Nieznany kod błędu."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "Prześlij obraz"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "Prześlij swoje logo"
 
@@ -1480,11 +1485,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "Wyświetl listę kontrolną"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "Wyświetl ukończone"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "Zobacz mniej"
 
@@ -1492,11 +1497,11 @@ msgstr "Zobacz mniej"
 msgid "View list"
 msgstr "Wyświetl listę"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "Zobacz więcej"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "Wyświetl wtyczki"
 
@@ -1538,22 +1543,19 @@ msgstr ""
 "serwera. Spróbuj ponownie później, a jeśli problem będzie się powtarzał, "
 "skontaktuj się z naszym zespołem wsparcia, aby uzyskać pomoc."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "Wykorzystamy te informacje, aby pomóc Ci szybciej skonfigurować sklep."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Konfiguracja strony"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "Adres URL strony"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "Witamy w WordPress!"
 
@@ -1565,11 +1567,11 @@ msgstr "Jakiego rodzaju produkty i usługi będziesz sprzedawać?"
 msgid "Where is your store located?"
 msgstr "Gdzie znajduje się Twój sklep?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "Samouczki WordPress"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "Tak, pomiń krok"
 
@@ -1578,7 +1580,7 @@ msgstr "Tak, pomiń krok"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "Używasz wersji PHP <b>%s</b>."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr ""
@@ -1599,7 +1601,7 @@ msgstr ""
 "domen mają unikalne procedury zmiany serwerów nazw. Oto serwery nazw "
 "Hostinger:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
@@ -1607,7 +1609,7 @@ msgstr ""
 "Możesz zobaczyć cały post w edytorze. Znajdź część opisu i zmień ją według "
 "swoich preferencji."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1648,7 +1650,7 @@ msgid ""
 "change it."
 msgstr "Twoja nowa strona zastąpi obecną. Użyj tego samego opisu lub zmień go."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "Twój postęp"
 
@@ -1656,7 +1658,7 @@ msgstr "Twój postęp"
 msgid "Your store name"
 msgstr "Nazwa Twojego sklepu"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1671,10 +1673,10 @@ msgstr ""
 "Spodobają Ci się te świetne oferty, które zostały starannie wyselekcjonowane "
 "specjalnie dla Ciebie."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "Twój sklep internetowy został skonfigurowany!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 Witaj w WordPress"

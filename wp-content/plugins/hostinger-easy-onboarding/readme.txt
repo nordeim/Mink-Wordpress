@@ -1,9 +1,9 @@
 === Hostinger ===
 Tags: onboarding, hostinger
 Requires at least: 5.5
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 8.0
-Stable tag: 2.0.72
+Stable tag: 2.0.74
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -103,6 +103,16 @@ Watching for Changes: During development, you can use "npm run watch" to continu
 
 
 == Changelog ==
+
+2.0.74 (2025-04-28)
+- Add edit site button support for block themes
+- Added translations
+
+2.0.73 (2025-04-24)
+- Adjusted and fixed amplitude events
+- Updated top bar button labels and positions
+- Update recent used blocks (Mercado Livre)
+- Updated tutorial videos
 
 2.0.72 (2025-04-17)
 - Add preview and site edit buttons

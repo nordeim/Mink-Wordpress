@@ -3,7 +3,7 @@
         'name' => 'hostinger/hostinger-easy-onboarding',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'cc05e937862955f6fe4057e351609e7777a5b125',
+        'reference' => '014502bdd5ad618d882440d699d1c85ecfb1c805',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'hostinger/hostinger-easy-onboarding' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'cc05e937862955f6fe4057e351609e7777a5b125',
+            'reference' => '014502bdd5ad618d882440d699d1c85ecfb1c805',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

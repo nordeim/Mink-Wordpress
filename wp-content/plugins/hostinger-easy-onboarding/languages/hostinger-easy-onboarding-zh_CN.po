@@ -12,12 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-05-06T11:48:04+00:00\n"
-"PO-Revision-Date: 2025-04-17 10:59+0000\n"
+"PO-Revision-Date: 2025-04-28 04:30+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -43,22 +43,22 @@ msgstr "%s 已处于活动状态 "
 msgid "%s missing or empty"
 msgstr "%s 丢失或为空 "
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(信用卡/借记卡） "
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
 msgstr "<strong>即将设置成功！</strong>只需再采取几个步骤，就可以让您的网站为在线成功做好准备。"
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr "<strong>使用内置付款方式</strong>--无需额外插件。"
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr "<strong>使用内置物流方式</strong>--无需额外插件。"
@@ -67,7 +67,7 @@ msgstr "<strong>使用内置物流方式</strong>--无需额外插件。"
 msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr "接受信用卡付款。在 WordPress 中管理交易。 "
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "访问网站身份并编辑标题 "
 
@@ -80,11 +80,11 @@ msgstr "抱歉，操作失败。请重试或联系客户支持。"
 msgid "Actions"
 msgstr "操作"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "激活 "
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "添加 "
 
@@ -92,16 +92,16 @@ msgstr "添加 "
 msgid "Add a domain"
 msgstr "添加域名 "
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "添加一个新页面"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr ""
 "添加一个标题\n"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "添加内容"
 
@@ -109,7 +109,7 @@ msgstr "添加内容"
 msgid "Add domain"
 msgstr "添加域名 "
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "添加插件 "
 
@@ -118,7 +118,7 @@ msgstr "添加插件 "
 msgid "Add product"
 msgstr "添加产品 "
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "添加运输方式 "
 
@@ -126,7 +126,7 @@ msgstr "添加运输方式 "
 msgid "Add store details"
 msgstr "添加商店详细信息 "
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -141,11 +141,11 @@ msgstr "添加第一个产品 "
 msgid "Add your first product or service"
 msgstr "添加你的第一个产品或服务"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr " 已添加"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -192,7 +192,7 @@ msgstr "出现意外错误。请重试。 "
 msgid "Are you sure you want to delete this page?"
 msgstr "您确定要删除此页面吗？ "
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "您确定吗？"
 
@@ -207,11 +207,11 @@ msgid ""
 "transfers – manage all of your projects quickly and easily."
 msgstr "自动报告，监控工具，网站预设和一键转让所有权-快速轻松地管理您的所有项目。"
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "返回 "
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -235,12 +235,12 @@ msgid ""
 "AI handles the rest."
 msgstr "即刻建立一个专业的定制设计网站。只需点击几下，剩下的就交给AI来处理。"
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "取消 "
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "货到付款 "
 
@@ -270,15 +270,15 @@ msgid ""
 "others later."
 msgstr "选择客户订单的发送方式。你也可以随时添加其他方式。"
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "完成"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "已完成的步骤 "
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "配置"
 
@@ -292,11 +292,11 @@ msgstr "配置付款选项，并接受使用 Mercado Pago 账户的卡、票据�
 msgid "Congrats, you have connected WooPayments!"
 msgstr "恭喜您，您已成功连接WooPayments！"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "恭喜您，您已准备好为大家展示您的网站了！"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "连接 "
 
@@ -304,7 +304,7 @@ msgstr "连接 "
 msgid "Connect Amazon to site"
 msgstr "将亚马逊连接到网站 "
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "立即连接域名 "
 
@@ -313,7 +313,7 @@ msgstr "立即连接域名 "
 msgid "Connect on hPanel"
 msgstr "连接hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr "连接你的 <strong>Amazon Associate</strong> 账户，获取 API 详情。"
@@ -322,16 +322,16 @@ msgstr "连接你的 <strong>Amazon Associate</strong> 账户，获取 API 详�
 msgid "Connect your Amazon account to the site"
 msgstr "将你的亚马逊账户连接到网站"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "链接您的域名"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "请先连接域名"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "将域名连接到Hostinger"
 
@@ -344,7 +344,7 @@ msgstr "连接一个域名"
 msgid "Connected your Amazon account"
 msgstr "连接亚马逊账户 "
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -355,12 +355,12 @@ msgstr "内容可以是任何内容，例如文本、图像、视频、表格等
 msgid "Continue"
 msgstr "继续 "
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "继续设置 "
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "创建标识"
 
@@ -378,7 +378,7 @@ msgstr "创建新页面 "
 msgid "Create a site with AI"
 msgstr "使用AI创建网站"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "用AI创建网站"
 
@@ -410,7 +410,7 @@ msgstr "利用AI创建网站"
 msgid "Current page"
 msgstr "当前页面"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "自定义网站外观，开始迎接访客。 "
 
@@ -420,7 +420,7 @@ msgstr "自定义网站外观，开始迎接访客。 "
 msgid "Delete page"
 msgstr "删除页面 "
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "银行转账 "
 
@@ -428,7 +428,7 @@ msgstr "银行转账 "
 msgid "Discover add-ons"
 msgstr "探索附加组件"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "离开"
 
@@ -441,7 +441,7 @@ msgid ""
 "Do you have any comments/suggestions to improve our WooCommerce onboarding?"
 msgstr "针对改进我们的 WooCommerce 引导流程，你可以提出一些意见或建议吗？"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -452,11 +452,11 @@ msgstr "域名传送可能需要 24 小时。你的域名将自动传送，在�
 msgid "Edit"
 msgstr "编辑 "
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "编辑图片"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "编辑详情"
 
@@ -476,19 +476,19 @@ msgstr "编辑页面 "
 msgid "Edit Pages"
 msgstr "编辑页面 "
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "编辑发布内容"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "编辑发布内容描述"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "编辑网站 "
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "编辑网站标题"
 
@@ -496,7 +496,7 @@ msgstr "编辑网站标题"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "使用 WordPress 附加组件高效管理网站 "
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr "请输入商店的详细信息，以便我们帮助你更快地建立网上商店。"
@@ -525,28 +525,34 @@ msgstr "在 Omnisend 的帮助下扩大受众范围。创建电子邮件营销�
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "使用 RedSys 网关扩展 WooCommerce。 "
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "在我们的知识库中找到你所需要的答案"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "查找媒体库页面"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "完成设置"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "请按照以下步骤完成设置 "
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "生成内容 "
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 #| msgid "Create content with AI"
 msgid "Generate content with AI"
 msgstr "使用AI创建内容 "
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "获取域名 "
 
@@ -562,7 +568,7 @@ msgstr "获取折扣"
 msgid "Get found on Google"
 msgstr "在 Google 上被发现 "
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -572,7 +578,7 @@ msgstr "立即为你创建图片、文本和搜索引擎优化关键字--试试<
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "立即为你创建图片、文本和搜索引擎优化关键字。 "
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "联系我们的在线专家"
 
@@ -600,7 +606,7 @@ msgstr "准备好在线销售。添加您的第一件产品，然后设置物流
 msgid "Get started"
 msgstr "立即开始  "
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "现在就开始吧！"
 
@@ -608,33 +614,33 @@ msgstr "现在就开始吧！"
 msgid "Getting your features ready"
 msgstr "完成所有性能设置"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "转至发布内容"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "转至自定义页面"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
 msgstr "Google Site Kit 是一个重要插件，可确保潜在访客能在 Google 上找到您的网站。 "
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "知道了！"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "帮助中心 "
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "隐藏已完成 "
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "隐藏列表 "
 
@@ -649,7 +655,7 @@ msgstr "WooCommerce 托管服务：自动计税、打印运输标签以及更顺
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostinger学院 "
 
@@ -663,7 +669,7 @@ msgstr "Hostinger快速使用流程"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Hostinger WordPress插件快速使用流程 "
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -673,27 +679,27 @@ msgstr "将鼠标悬停在选定的发布内容上以查看“选项”菜单。
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "如何让创建一个新的 WordPress 网站变得更容易？ "
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "如何备份WordPress网站"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "如何使用 WordPress 创建有效的着陆页 (2024) "
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "如何创建一个WordPress联系我们页面"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "如何在 WordPress 中创建“即将推出”页面 (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "如何在WordPress网站中导入图片"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "如何制作网站（2024 年）：简单、快速、轻松教程 "
 
@@ -701,7 +707,7 @@ msgstr "如何制作网站（2024 年）：简单、快速、轻松教程 "
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "如何将域名指向虚拟主机 "
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "如何设置WordPress SMTP"
 
@@ -745,39 +751,39 @@ msgstr "https://hostinger.com"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.com"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "我买了一个域名，现在怎么办？ "
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
 msgstr "如果你想编辑图像，点击选中的图像并点击“编辑图像”按钮。裁剪、旋转、翻转或缩放选定的图像。"
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
 msgstr "在左侧栏中,单击“外观”展开菜单。在“外观”部分，单击“自定义”。自定义页面将被打开。"
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr "在左侧栏中，单击“站点标识”并编辑您的站点标题。"
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
 msgstr "在左侧边栏单击 \"网站标识\"，然后单击 \"选择网站图标 \"按钮。在这里，你可以上传你的品牌徽标。"
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
 msgstr "在左侧边栏找到 \"媒体 \"按钮。单击 \"库 \"按钮，查看你上传到网站的所有图片。"
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -786,7 +792,7 @@ msgstr ""
 "在左侧栏中,"
 "找到“页面”菜单并点击添加新的按钮。您将看到WordPress页面编辑器。WordPress编辑器中的每个段落、图像或视频都以“模块”的形式呈现。"
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -802,7 +808,7 @@ msgstr "通过在谷歌搜索引擎中的可发现性，提高网站知名度。
 msgid "Installation failed"
 msgstr "安装失败 "
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "已安装 "
 
@@ -831,11 +837,11 @@ msgstr "只需几个步骤即可启动你的在线商店"
 msgid "Keep current site"
 msgstr "保留当前网站 "
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "知识库 "
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "学习 WordPress "
 
@@ -845,7 +851,7 @@ msgid ""
 "products, and earn rewards. No API key required."
 msgstr "将您的亚马逊联盟营销账户链接到您的网站，开始推广产品并赚取奖励。无需 API 密钥。 "
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed 高速缓冲存储器:如何获得100%WordPress优化功能"
 
@@ -901,7 +907,7 @@ msgstr "不需要 "
 msgid "Not now"
 msgstr "暂时跳过"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr "现在，<strong>设置</strong>已安装插件。"
 
@@ -913,7 +919,7 @@ msgstr ""
 "在 <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>上"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "使用流程"
@@ -922,21 +928,21 @@ msgstr "使用流程"
 msgid "Online store setup"
 msgstr "建立网上商店 "
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
 msgstr "选择加入，即可在收件箱中直接收到 WooCommerce 团队提供的提示、折扣和建议。 "
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "或使用支付插件 "
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "或使用物流插件"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "其他 "
 
@@ -945,15 +951,15 @@ msgstr "其他 "
 msgid "Page title:"
 msgstr "页面标题： "
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "付款方式 "
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "支付插件 "
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "付款设置 "
 
@@ -996,25 +1002,24 @@ msgstr "已成功激活插件"
 msgid "Plugin sucessfully installed"
 msgstr "已成功安装插件"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "预建网站和主题 "
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "预览 "
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "预览网站"
+msgstr "预览网站 "
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "网站预览 "
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "发布页面"
 
@@ -1022,11 +1027,11 @@ msgstr "发布页面"
 msgid "Rate this plugin"
 msgstr "评价此插件"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "为你推荐"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "运营亚马逊联盟网站 "
 
@@ -1085,11 +1090,11 @@ msgstr "设置 Google 网站工具包 "
 msgid "Set up payment method"
 msgstr "设置付款方式 "
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "设置付款 "
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "设置物流"
 
@@ -1097,7 +1102,7 @@ msgstr "设置物流"
 msgid "Set up shipping method"
 msgstr "设置运输方式 "
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "设置网站工具包 "
 
@@ -1105,7 +1110,7 @@ msgstr "设置网站工具包 "
 msgid "Set up your online store"
 msgstr "开设网上商店 "
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "设置您的网站 "
 
@@ -1126,12 +1131,12 @@ msgstr "安装 <strong>WooCommerce</strong>，添加产品或服务，立即开�
 msgid "Setup Google Site Kit"
 msgstr "设置 Google 网站工具包 "
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 #| msgid "Set up my online store"
 msgid "Setup my online store"
 msgstr "设置我的网上商店 "
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "建立网站 "
 
@@ -1155,11 +1160,11 @@ msgstr "轻松运输产品"
 msgid "Shipping methods"
 msgstr "运输方式 "
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "物流插件"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "物流设置"
 
@@ -1167,11 +1172,11 @@ msgstr "物流设置"
 msgid "Shop locale is empty, please setup store first"
 msgstr "商店位置为空，请先设置商店 "
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "显示列表 "
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "跳过 "
 
@@ -1186,7 +1191,7 @@ msgstr "抱歉，存在激活错误。 "
 msgid "Sorry, there are validation errors."
 msgstr "抱歉，出现验证错误。 "
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1209,11 +1214,11 @@ msgstr "未找到商店位置语言 "
 msgid "Take credit card payments on your store using Stripe."
 msgstr "使用 Stripe 在你的店铺上接受信用卡付款。"
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "转至界面"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "请向我们介绍一下你的业务"
 
@@ -1304,7 +1309,7 @@ msgid ""
 "methods in WooCommerce"
 msgstr "该扩展可让你在 WooCommerce 中使用 Colissimo 货运方法。"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "该字段为必填字段 "
 
@@ -1313,7 +1318,7 @@ msgstr "该字段为必填字段 "
 msgid "Title"
 msgstr "标题 "
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1323,7 +1328,7 @@ msgstr "要上传新图片，请单击媒体库页面上的“添加新的”按
 msgid "Try Omnisend"
 msgstr "试试 Omnisend "
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "教程 "
 
@@ -1331,11 +1336,11 @@ msgstr "教程 "
 msgid "Unknown error code."
 msgstr "未知错误代码。"
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "上传一张图片"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "上传您的品牌图标"
 
@@ -1349,11 +1354,11 @@ msgstr "使用特别折扣代码 <b>ONLYHOSTINGER30</b>，升级时可享受 6 �
 msgid "View checklist"
 msgstr "查看清单 "
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "查看已完成项目"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "收起"
 
@@ -1361,11 +1366,11 @@ msgstr "收起"
 msgid "View list"
 msgstr "查看列表 "
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "查看更多 "
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "查看插件 "
 
@@ -1402,22 +1407,19 @@ msgid ""
 "persists, kindly contact our support team for assistance."
 msgstr "给您带来不便，我们深表歉意。AI内容生成过程遇到服务器错误。请稍后重试，如果问题仍然存在，请联系我们的客户支持团队寻求帮助。"
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "我们将利用这些信息帮助你更快地开设店铺。"
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "网站设置 "
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "网站地址"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "欢迎使用 WordPress！ "
 
@@ -1429,11 +1431,11 @@ msgstr "你准备销售什么类型的产品或服务？"
 msgid "Where is your store located?"
 msgstr "你的商店在哪里？"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "WordPress 教程 "
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "是，跳过步骤 "
 
@@ -1442,7 +1444,7 @@ msgstr "是，跳过步骤 "
 msgid "You are running <b>%s</b> PHP version."
 msgstr "你运行的是 <b>%s</b> PHP 版本。"
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr "你还可以设置发货方式，无需安装其他插件。"
@@ -1459,13 +1461,13 @@ msgid ""
 msgstr ""
 "你可以通过更改域名服务器将域名连接到Hostinger。不同的域名提供商都有独特的域名服务器更改程序。以下是Hostinger的域名服务器： "
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
 msgstr "您可以在编辑器中看到完整内容。找到描述部分并进行更改。"
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1500,7 +1502,7 @@ msgid ""
 "change it."
 msgstr "您的新网站将取代当前网站。使用相同的描述或更改描述。 "
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "你的进度"
 
@@ -1508,7 +1510,7 @@ msgstr "你的进度"
 msgid "Your store name"
 msgstr "你的商店名称"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1518,10 +1520,10 @@ msgstr "你已发布网站，现在可以通过使用Hostinger免费临时子域
 msgid "You’ll love these great deals that were handpicked just for you."
 msgstr "您一定会喜欢这些专为您精心挑选的超值优惠。 "
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "你已经完成了网店的创建！"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "欢迎访问WordPress"

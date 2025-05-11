@@ -2,7 +2,7 @@
 Tags: AI, AI assistant
 Requires PHP: 8.0
 Tested up to: 6.8
-Stable tag: 2.0.35
+Stable tag: 2.0.36
 Requires at least: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -277,3 +277,6 @@ This section describes how to install the plugin and get it working.
 
 2.0.35 (2025-04-15)
 - Add preview and site edit links
+
+2.0.36 (2025-04-30)
+- Add correlation id

@@ -11,13 +11,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-08-19T08:23:05+00:00\n"
-"PO-Revision-Date: 2025-04-17 11:02+0000\n"
+"PO-Revision-Date: 2025-04-28 04:40+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
 "Language: ro_RO\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
 "=0)))? 2 : 1));\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -44,11 +44,11 @@ msgstr "%s este deja activ"
 msgid "%s missing or empty"
 msgstr "%s lipsesște sau e gol"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(Card de credit/debit)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -56,14 +56,14 @@ msgstr ""
 "<strong>Aproape gata!</strong> Mai avem doar câțiva pași în pregătirea site-"
 "ul pentru succesul online."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr ""
 "<strong>Utilizează metode de plată încorporate</strong> - nu sunt necesare "
 "plugin-uri suplimentare."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr ""
@@ -75,7 +75,7 @@ msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr ""
 "Accepți plăți prin card de credit. Gestionezi tranzacțiile în WordPress."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "Accesează identitatea site-ului și editează titlul"
 
@@ -89,11 +89,11 @@ msgstr ""
 msgid "Actions"
 msgstr "Acțiuni"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "Activează"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "Adaugă"
 
@@ -101,15 +101,15 @@ msgstr "Adaugă"
 msgid "Add a domain"
 msgstr "Adaugă un domeniu"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "Adaugă o pagină nouă"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "Adaugă un titlu"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "Adaugă conținut"
 
@@ -117,7 +117,7 @@ msgstr "Adaugă conținut"
 msgid "Add domain"
 msgstr "Adaugă domeniu"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "Adaugă un plugin"
 
@@ -125,7 +125,7 @@ msgstr "Adaugă un plugin"
 msgid "Add product"
 msgstr "Adaugă produs"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "Adaugă o metodă de expediere"
 
@@ -133,7 +133,7 @@ msgstr "Adaugă o metodă de expediere"
 msgid "Add store details"
 msgstr "Adaugă detaliile magazinului"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -152,11 +152,11 @@ msgstr "Adaugă primul tău produs"
 msgid "Add your first product or service"
 msgstr "Adaugă primul tău produs sau serviciu"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "Adăugat"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -211,7 +211,7 @@ msgstr "A apărut o eroare neașteptată. Te rugăm să încerci din nou."
 msgid "Are you sure you want to delete this page?"
 msgstr "Ești sigur că vrei să ștergi această pagină?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "Ești sigur?"
 
@@ -229,11 +229,11 @@ msgstr ""
 "transfer de proprietate cu 1 click - îți gestionezi toate proiectele rapid "
 "și ușor."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "Înapoi"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -267,12 +267,12 @@ msgstr ""
 "Creează un site profesional, cu design personalizat, în câteva momente. Doar "
 "câteva click-uri și AI se ocupă de restul."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "Anulează"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "Plata la livrare"
 
@@ -304,15 +304,15 @@ msgstr ""
 "Alege modalitățile prin care dorești să expediezi comenzile către clienți. "
 "Poți adăuga oricând altele mai târziu."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "Completează"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "Etape finalizate"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "Configurare"
 
@@ -328,11 +328,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "Felicitări, ai conectat WooPayments!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "Felicitări, ești gata să-ți prezinți site-ul!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "Conectează-te"
 
@@ -340,7 +340,7 @@ msgstr "Conectează-te"
 msgid "Connect Amazon to site"
 msgstr "Conectează Amazon la site"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "Conectează domeniul acum"
 
@@ -349,7 +349,7 @@ msgstr "Conectează domeniul acum"
 msgid "Connect on hPanel"
 msgstr "Conectează-te pe hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -360,16 +360,16 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "Conectează-ți contul Amazon la site"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "Conectează-ți domeniul"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "Conectează-ți mai întâi domeniul"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Conectează-ți domeniul la Hostinger"
 
@@ -382,7 +382,7 @@ msgstr "Domeniul a fost conectat"
 msgid "Connected your Amazon account"
 msgstr "Contul tău Amazon a fost conectat"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -396,12 +396,12 @@ msgstr ""
 msgid "Continue"
 msgstr "Continuă"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "Continuă configurarea"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "Creează un logo"
 
@@ -419,7 +419,7 @@ msgstr "Creează o pagină nouă"
 msgid "Create a site with AI"
 msgstr "Creează un site cu AI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "Creează un site web cu AI"
 
@@ -454,7 +454,7 @@ msgstr "Creează un site cu AI"
 msgid "Current page"
 msgstr "Pagina curentă"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr ""
 "Personalizează modul în care arată site-ul tău și începe să primești "
@@ -466,7 +466,7 @@ msgstr ""
 msgid "Delete page"
 msgstr "Șterge pagina"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "Transfer bancar direct"
 
@@ -474,7 +474,7 @@ msgstr "Transfer bancar direct"
 msgid "Discover add-ons"
 msgstr "Descoperă add-ons-uri"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "Respinge"
 
@@ -489,7 +489,7 @@ msgstr ""
 "Ai comentarii/sugestii pentru a îmbunătăți plugin-ul nostru de onboarding "
 "WooCommerce?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -502,11 +502,11 @@ msgstr ""
 msgid "Edit"
 msgstr "Editează"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "Editează imaginea"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "Editează descrierea"
 
@@ -526,19 +526,19 @@ msgstr "Editează pagina"
 msgid "Edit Pages"
 msgstr "Editează paginile"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "Editează postarea"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "Editează descrierea postării"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "Editează site-ul"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "Editează titlul site-ului"
 
@@ -546,7 +546,7 @@ msgstr "Editează titlul site-ului"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "Gestionarea eficientă a site-ului cu WordPress add-ons"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -581,27 +581,33 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "Extinde WooCommerce cu un gateway RedSys."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "Găsește răspunsurile de care ai nevoie în baza noastră de cunoștințe"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "Găsește pagina Media"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "Finisare configurare"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "Urmează acești pași pentru a finaliza configurarea"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "Generează conținut"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 msgid "Generate content with AI"
 msgstr "Generează conținut cu ajutorul AI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "Obține un domeniu"
 
@@ -617,7 +623,7 @@ msgstr "Obține reducerea"
 msgid "Get found on Google"
 msgstr "Afișează-te pe Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -630,7 +636,7 @@ msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr ""
 "Obține instantaneu imagini, text și cuvinte cheie SEO create pentru tine."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "Ia legătura cu specialiștii noștri live"
 
@@ -663,7 +669,7 @@ msgstr ""
 msgid "Get started"
 msgstr "Începe acum"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "Începe acum!"
 
@@ -671,15 +677,15 @@ msgstr "Începe acum!"
 msgid "Getting your features ready"
 msgstr "Îți pregătim funcțiile"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "Mergi la postări"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "Mergi la pagina Personalizare"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -687,19 +693,19 @@ msgstr ""
 "Google Site Kit este un plugin esențial care se asigură că potențialii "
 "vizitatori îți pot găsi site-ul pe Google."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "Am reușit!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "Centru de ajutor"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "Ascunde acțiunile complete"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "Ascunde lista"
 
@@ -716,7 +722,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Academia Hostinger"
 
@@ -730,7 +736,7 @@ msgstr "Hostinger Easy Onboarding"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Plugin Hostinger Easy Onboarding pentru WordPress."
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -742,27 +748,27 @@ msgstr ""
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "Cum am putea face mai ușoară crearea unui nou site WordPress?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "Cum să faci backup la un site WordPress"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "Cum să creezi un landing page o EFICIENT cu WordPress (2024)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "Cum să creezi o pagină WordPress de Contact"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "Cum să creezi pagina „În curând” în WordPress (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "Cum să imporți imagini în site-ul WordPress"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "Cum să faci un site web (2024): Tutorial simplu, rapid și ușor"
 
@@ -770,7 +776,7 @@ msgstr "Cum să faci un site web (2024): Tutorial simplu, rapid și ușor"
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "Cum să direcțționezi numele de domeniu către găzduirea web"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "Cum să configurezi WordPress SMTP"
 
@@ -820,11 +826,11 @@ msgstr "https://www.hostinger.com/ro"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.com/ro"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "Am cumpărat un domeniu, ce urmează?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -832,7 +838,7 @@ msgstr ""
 "Dacă dorești să editezi imaginea, dă click pe imaginea aleasă și pe butonul "
 "Editare imagine. Acum poți tăia, roti, întoarce sau scala imaginea selectată."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -841,13 +847,13 @@ msgstr ""
 "secțiunea Appearance (Aspect), dă click pe Customize (Personalizare). Se va "
 "deschide pagina Personalizare."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr ""
 "În bara laterală din stânga, dă click pe Identitatea site-ului și editează "
 "titlul site-ului."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -856,7 +862,7 @@ msgstr ""
 "butonul Selectează pictograma site-ului. Aici, poți încărca logo-ul "
 "brandului tău."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -865,7 +871,7 @@ msgstr ""
 "Bibliotecă pentru a vedea toate imaginile pe care le-ai încărcat pe site-ul "
 "tău."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -876,7 +882,7 @@ msgstr ""
 " imagine sau videoclip din editorul WordPress este prezentat ca un „bloc” de "
 "conținut."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -896,7 +902,7 @@ msgstr ""
 msgid "Installation failed"
 msgstr "Instalarea a eșuat"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "Instalat"
 
@@ -926,11 +932,11 @@ msgstr "Mai sunt doar câțiva pași pentru a-ți lansa magazinul online"
 msgid "Keep current site"
 msgstr "Păstrează-ți site-ul actual"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "Bază de cunoștințe"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "Învață WordPress"
 
@@ -942,7 +948,7 @@ msgstr ""
 "Conectează-ți contul de Amazon Associates la site-ul tău web, începe să "
 "promovezi produse și câștigă recompense. Nu este necesară o cheie API."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache: Cum să obții 100% optimizare WordPress"
 
@@ -1000,7 +1006,7 @@ msgstr "Nu este necesar"
 msgid "Not now"
 msgstr "Nu acum"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr ""
 "Acum <strong>finalizează configurarea</strong> pluginurilor pe care le-ai "
@@ -1014,7 +1020,7 @@ msgstr ""
 "pe <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "Onboarding"
@@ -1023,7 +1029,7 @@ msgstr "Onboarding"
 msgid "Online store setup"
 msgstr "Configurarea magazinului online"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -1031,15 +1037,15 @@ msgstr ""
 "Înscrie-te pentru a primi sfaturi, reduceri și recomandări de la echipa "
 "WooCommerce direct în mesagerie."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "Sau utilizează pluginuri de plată"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "Sau utlizează pluginuri de expediere"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "Altele"
 
@@ -1048,15 +1054,15 @@ msgstr "Altele"
 msgid "Page title:"
 msgstr "Titlul paginii:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "Metode de plată"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "Plugin-uri de plată"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "Setări de plată"
 
@@ -1102,17 +1108,16 @@ msgstr "Plugin activat cu succes"
 msgid "Plugin sucessfully installed"
 msgstr "Plugin instalat cu succes"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "Site-uri și teme pre-construite"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "Previzualizare"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
 msgstr "Previzualizare site"
 
@@ -1120,7 +1125,7 @@ msgstr "Previzualizare site"
 msgid "Preview website"
 msgstr "Previzualizează site-ul web"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "Publică pagina"
 
@@ -1128,11 +1133,11 @@ msgstr "Publică pagina"
 msgid "Rate this plugin"
 msgstr "Evaluează acest plugin"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "Recomandat pentru tine"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Gestionează un site de Afiliat Amazon"
 
@@ -1196,11 +1201,11 @@ msgstr "Configurează Google Site Kit"
 msgid "Set up payment method"
 msgstr "Configurează metoda de plată"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "Configurează plăți"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "Configurează expedieri"
 
@@ -1208,7 +1213,7 @@ msgstr "Configurează expedieri"
 msgid "Set up shipping method"
 msgstr "Configurează metoda de expediere"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Configurează Site Kit"
 
@@ -1216,7 +1221,7 @@ msgstr "Configurează Site Kit"
 msgid "Set up your online store"
 msgstr "Configurează magazinul tău online"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "Configurează-ți site-ul"
 
@@ -1236,11 +1241,11 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "Configurează Google Site Kit"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 msgid "Setup my online store"
 msgstr "Configurează magazinului meu online"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Configurează site-ul web"
 
@@ -1269,11 +1274,11 @@ msgstr "Expediază produse cu ușurință"
 msgid "Shipping methods"
 msgstr "Metode de expediere"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "Plugin-uri de expediere"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "Setări de expediere"
 
@@ -1281,11 +1286,11 @@ msgstr "Setări de expediere"
 msgid "Shop locale is empty, please setup store first"
 msgstr "Magazinul local este gol, te rugăm să configurezi mai întâi magazinul"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "Afișează lista"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "Treci peste"
 
@@ -1300,7 +1305,7 @@ msgstr "Ne pare rău, au apărut erori de activare."
 msgid "Sorry, there are validation errors."
 msgstr "Ne pare rău, au apărut erori de validare."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1323,11 +1328,11 @@ msgstr "Magazinul local nu a fost găsit"
 msgid "Take credit card payments on your store using Stripe."
 msgstr "Efectează plăți cu cardul de credit în magazinul tău utilizând Stripe."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "Du-mă acolo"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "Spune-ne câte ceva despre afacerea ta"
 
@@ -1430,7 +1435,7 @@ msgstr ""
 "Această extensie îți oferă posibilitatea de a utiliza metodele de expediere "
 "Colissimo în WooCommerce"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "Acest câmp este obligatoriu"
 
@@ -1439,7 +1444,7 @@ msgstr "Acest câmp este obligatoriu"
 msgid "Title"
 msgstr "Titlu"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1451,7 +1456,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "Încearcă Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "Tutoriale"
 
@@ -1459,11 +1464,11 @@ msgstr "Tutoriale"
 msgid "Unknown error code."
 msgstr "Cod de eroare necunoscut."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "Încarcă o imagine"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "Încarcă logo-ul tău"
 
@@ -1480,11 +1485,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "Vezi checklist-ul"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "Vezi acțiunile complete"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "Vezi mai puțin"
 
@@ -1492,11 +1497,11 @@ msgstr "Vezi mai puțin"
 msgid "View list"
 msgstr "Vezi lista"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "Vezi mai mult"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "Vezi pluginuri"
 
@@ -1539,24 +1544,21 @@ msgstr ""
 "întâmpinat o eroare de server. Te rugăm să încerci din nou mai târziu, iar "
 "dacă problema persistă, te rugăm să contactezi echipa noastră de asistență."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr ""
 "Vom folosi aceste informații pentru a te ajuta să-ți configurezi magazinul "
 "mai rapid."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Configurarea site-ului web"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "URL-ul site-ului"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "Bine ai venit la WordPress!"
 
@@ -1568,11 +1570,11 @@ msgstr "Ce tip de produse sau servicii vei vinde?"
 msgid "Where is your store located?"
 msgstr "Unde este situat magazinul tău?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "Tutoriale WordPress"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "Da, treci peste acest pas"
 
@@ -1581,7 +1583,7 @@ msgstr "Da, treci peste acest pas"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "Utilizezi versiunea PHP <b>%s</b>."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr ""
@@ -1602,7 +1604,7 @@ msgstr ""
 "Diferiți furnizori de domenii au proceduri distincte pentru schimbarea "
 "nameserverelor. Acestea sunt nameserverele Hostinger:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
@@ -1610,7 +1612,7 @@ msgstr ""
 "Poți vedea întreaga postare în editor. Găsește partea de descriere și "
 "modific-o conform preferințelor tale."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1654,7 +1656,7 @@ msgstr ""
 "Noul tău site îl va înlocui pe cel actual. Utilizează aceeași descriere sau "
 "modific-o."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "Progresul tău"
 
@@ -1662,7 +1664,7 @@ msgstr "Progresul tău"
 msgid "Your store name"
 msgstr "Numele magazinului tău"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1677,10 +1679,10 @@ msgstr ""
 "O să-ți placă aceste oferte grozave care au fost alese manual doar pentru "
 "tine."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "Ai terminat de configurat magazinul tău online!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 Bine ai venit la WordPress"

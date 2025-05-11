@@ -120,7 +120,7 @@ class Hostinger_Ai_Assistant_Requests {
 				$data['focus_keyword'] = $focus_keywords;
 			}
 
-			$response = $this->client->get( self::GENERATE_CONTENT_ACTION, $data );
+			$response = $this->client->get( self::GENERATE_CONTENT_ACTION, $data, [ 'X-Correlation-ID' => $correlation_id ] );
 
 			$response_code = wp_remote_retrieve_response_code( $response );
 			$response_body = wp_remote_retrieve_body( $response );
@@ -148,6 +148,7 @@ class Hostinger_Ai_Assistant_Requests {
 				}
 
                 $this->amplitude->ai_content_created( $post_type, $location, [ 'correlation_id' => $correlation_id ] );
+
 				wp_send_json_success( $generated_content );
 			}
 		} catch ( Exception $exception ) {

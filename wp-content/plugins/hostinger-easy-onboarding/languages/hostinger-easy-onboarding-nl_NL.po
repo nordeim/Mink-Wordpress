@@ -11,12 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-03-20T07:03:00+00:00\n"
-"PO-Revision-Date: 2025-04-17 10:59+0000\n"
+"PO-Revision-Date: 2025-04-28 04:32+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Loco-Version: 2.7.1; wp-6.7.2"
+"X-Loco-Version: 2.7.2; wp-6.8"
 
 #: includes/Admin/Assets.php:196
 msgid ""
@@ -43,11 +43,11 @@ msgstr "%s is al actief"
 msgid "%s missing or empty"
 msgstr "%s ontbreekt of is leeg"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(creditcard/betaalkaart)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -55,14 +55,14 @@ msgstr ""
 "<strong>Bijna klaar! </strong> Nog een paar stappen en je site is klaar voor "
 "online succes."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr ""
 "<strong>Gebruik ingebouwde betaalmethoden</strong> - geen extra plug-ins "
 "nodig."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr ""
@@ -74,7 +74,7 @@ msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr ""
 "Accepteer betalingen met creditcard. Beheer transacties binnen WordPress."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "Toegang tot site-identiteit en titel bewerken"
 
@@ -89,11 +89,11 @@ msgstr ""
 msgid "Actions"
 msgstr "Acties"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "Activeer"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "Toevoegen"
 
@@ -101,15 +101,15 @@ msgstr "Toevoegen"
 msgid "Add a domain"
 msgstr "Een domein toevoegen"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "Nieuwe pagina toevoegen"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "Titel toevoegen"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "Content toevoegen"
 
@@ -117,7 +117,7 @@ msgstr "Content toevoegen"
 msgid "Add domain"
 msgstr "Domein toevoegen"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "Plug-in toevoegen"
 
@@ -126,7 +126,7 @@ msgstr "Plug-in toevoegen"
 msgid "Add product"
 msgstr "Producten toevoegen"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "Verzendmethode toevoegen"
 
@@ -134,7 +134,7 @@ msgstr "Verzendmethode toevoegen"
 msgid "Add store details"
 msgstr "Winkelgegevens toevoegen"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -153,11 +153,11 @@ msgstr "Je eerste product toevoegen"
 msgid "Add your first product or service"
 msgstr "Voeg je eerste product of dienst toe"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "Toegevoegd"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -211,7 +211,7 @@ msgstr "Er is een onverwachte fout opgetreden. Probeer het opnieuw."
 msgid "Are you sure you want to delete this page?"
 msgstr "Weet je zeker dat je deze pagina wilt verwijderen?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "Weet je het zeker?"
 
@@ -228,11 +228,11 @@ msgstr ""
 "Geautomatiseerde rapporten, monitoring tools, site presets en 1-klik "
 "eigendomsoverdracht - beheer al je projecten snel en eenvoudig."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "Terug"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -265,12 +265,12 @@ msgstr ""
 "Bouw in een handomdraai een professionele, op maat gemaakte site. Een paar "
 "klikken en AI doet de rest."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "Annuleren"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "Rembours"
 
@@ -303,15 +303,15 @@ msgstr ""
 "Kies de verzendmogelijkheden voor klanten. Je kunt later altijd nog andere "
 "toevoegen."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "Compleet"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "Voltooide stappen"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "Configureer"
 
@@ -327,11 +327,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "Gefeliciteerd, je hebt WooPayments verbonden!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "Gefeliciteerd, je bent klaar om je site te presenteren!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "Koppelen"
 
@@ -339,7 +339,7 @@ msgstr "Koppelen"
 msgid "Connect Amazon to site"
 msgstr "Amazon met site verbinden"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "Domein nu koppelen"
 
@@ -348,7 +348,7 @@ msgstr "Domein nu koppelen"
 msgid "Connect on hPanel"
 msgstr "Verbinden met hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -359,17 +359,17 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "Verbind je Amazon account met de site"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr ""
 "Koppel jouw domein\n"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "Verbind eerst je domein"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Je domein met Hostinger koppelen"
 
@@ -382,7 +382,7 @@ msgstr "Een domein aangesloten"
 msgid "Connected your Amazon account"
 msgstr "Je Amazon account is verbonden"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -396,12 +396,12 @@ msgstr ""
 msgid "Continue"
 msgstr "Ga verder"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "Doorgaan met instellen"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "Maak een logo"
 
@@ -419,7 +419,7 @@ msgstr "Een nieuwe pagina maken"
 msgid "Create a site with AI"
 msgstr "Maak een site met AI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "Maak een website met AI"
 
@@ -453,7 +453,7 @@ msgstr "Maak site met AI"
 msgid "Current page"
 msgstr "Huidige pagina"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr ""
 "Pas het uiterlijk van je site aan en begin met het verwelkomen van bezoekers."
@@ -464,7 +464,7 @@ msgstr ""
 msgid "Delete page"
 msgstr "Pagina verwijderen"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "Directe overschrijving"
 
@@ -472,7 +472,7 @@ msgstr "Directe overschrijving"
 msgid "Discover add-ons"
 msgstr "Ontdek add-ons"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "Afwijzen"
 
@@ -487,7 +487,7 @@ msgstr ""
 "Heb je opmerkingen/suggesties voor het verbeteren van onze WooCommerce "
 "onboarding?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -500,11 +500,11 @@ msgstr ""
 msgid "Edit"
 msgstr "Bewerken"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "Een afbeelding bewerken"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "Een omschrijving bewerken"
 
@@ -524,19 +524,19 @@ msgstr "Pagina bewerken"
 msgid "Edit Pages"
 msgstr "Pagina's bewerken"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "Een bericht bewerken"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "Berichtbeschrijving bewerken"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "Site bewerken"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "Een website-titel bewerken"
 
@@ -544,7 +544,7 @@ msgstr "Een website-titel bewerken"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "Efficiënt sitebeheer met WordPress add-ons"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -579,28 +579,34 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "Breidt WooCommerce uit met een RedSys gateway."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "Vind de antwoorden waar je naar op zoek bent in onze Kennisbank"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "Zoek de mediapagina"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "Afwerking instellen"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "Volg deze stappen om de installatie te voltooien"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "Content genereren"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 #| msgid "Create content with AI"
 msgid "Generate content with AI"
 msgstr "Maak content met AI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "Koop een domein"
 
@@ -616,7 +622,7 @@ msgstr "Ontvang korting"
 msgid "Get found on Google"
 msgstr "Wordt gevonden op Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -628,7 +634,7 @@ msgstr ""
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "Ontvang direct afbeeldingen, tekst en SEO-keywords."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "Neem live contact op met onze specialisten"
 
@@ -662,7 +668,7 @@ msgstr ""
 msgid "Get started"
 msgstr "Ga aan de slag"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "Ga aan de slag!"
 
@@ -670,15 +676,15 @@ msgstr "Ga aan de slag!"
 msgid "Getting your features ready"
 msgstr "Bereid je functies voor"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "Ga naar Berichten"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "Ga naar Pagina aanpassen"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -686,19 +692,19 @@ msgstr ""
 "Google Site Kit is een essentiële plug-in die ervoor zorgt dat potentiële "
 "bezoekers je site op Google kunnen vinden."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "Begrepen!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "Hulpcentrum "
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "Voltooid verbergen"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "Lijst verbergen"
 
@@ -715,7 +721,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostinger Academy"
 
@@ -729,7 +735,7 @@ msgstr "Hostinger Easy Onboarding"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Hostinger Easy Onboarding Wordpress plug-in"
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -742,27 +748,27 @@ msgid "How could we make it easier to create a new WordPress website?"
 msgstr ""
 "Hoe kunnen wij het maken van een nieuwe WordPress website eenvoudiger maken?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "Hoe maak je een back-up van een WordPress site?"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "Hoe je een EFFECTIEVE landingspagina maakt met WordPress (2024)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "Hoe maak je een WordPress contactpagina?"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "Zo maak je een Coming Soon pagina in WordPress (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "Hoe importeer je afbeeldingen naar een WordPress website?"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr ""
 "Een website maken (2024): Eenvoudige, snelle en gemakkelijke handleiding"
@@ -771,7 +777,7 @@ msgstr ""
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "Hoe een domeinnaam aan webhosting koppelen"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "Hoe stel je WordPress SMTP in?"
 
@@ -821,11 +827,11 @@ msgstr "https://hostinger.nl"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.nl"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "Ik heb een domein gekocht, wat nu?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -834,7 +840,7 @@ msgstr ""
 "vervolgens op de knop Afbeelding bewerken. Je kunt de geselecteerde "
 "afbeelding nu bijsnijden, draaien, spiegelen of vergroten/verkleinen."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -842,13 +848,13 @@ msgstr ""
 "Klik in de linker zijbalk op Uiterlijk om het menu uit te vouwen. Klik onder "
 "Uiterlijk op Aanpassen. De optie Pagina aanpassen wordt geopend."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr ""
 "Klik in de linker zijbalk op Website Identiteit en wijzig de titel van je "
 "website."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -856,7 +862,7 @@ msgstr ""
 "Klik in de linkerzijbalk op Website-identiteit en klik vervolgens op de knop "
 "Site-pictogram selecteren. Hier kunt je je eigen merklogo uploaden."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -864,7 +870,7 @@ msgstr ""
 "Zoek in de linker zijbalk naar de knop Media. Klik op de knop Bibliotheek "
 "voor alle afbeeldingen die je naar je website hebt geüpload."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -875,7 +881,7 @@ msgstr ""
 "of video in de WordPress editor wordt weergegeven als een \"blok\" met "
 "inhoud."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -895,7 +901,7 @@ msgstr ""
 msgid "Installation failed"
 msgstr "Installatie mislukt"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "Geïnstalleerd"
 
@@ -925,11 +931,11 @@ msgstr "Nog een paar stappen om je webshop te lanceren"
 msgid "Keep current site"
 msgstr "Huidige site behouden"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "Kennisbank"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "Leer over WordPress"
 
@@ -941,7 +947,7 @@ msgstr ""
 "Koppel je Amazon Associates account aan je website, begin met het promoten "
 "van producten en verdien beloningen. API sleutel is niet nodig."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache: Hoe bereik je 100% WordPress optimalisatie?"
 
@@ -999,7 +1005,7 @@ msgstr "Niet nodig"
 msgid "Not now"
 msgstr "Niet nu"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr ""
 "<strong>Voltooi nu het instellen</strong> van de plug-ins die je hebt "
@@ -1013,7 +1019,7 @@ msgstr ""
 "op <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "Onboarding"
@@ -1022,7 +1028,7 @@ msgstr "Onboarding"
 msgid "Online store setup"
 msgstr "Webshop opzetten"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -1030,15 +1036,15 @@ msgstr ""
 "Meld je aan om tips, kortingen en aanbevelingen van het WooCommerce team "
 "direct in je inbox te ontvangen."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "Of gebruik betalingsplug-ins"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "Of gebruik verzendplug-ins"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "Andere"
 
@@ -1047,15 +1053,15 @@ msgstr "Andere"
 msgid "Page title:"
 msgstr "Pagina titel:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "Betaalmethoden"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "Plug-ins voor betalingen"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "Betalingsinstellingen"
 
@@ -1101,25 +1107,24 @@ msgstr "Plug-in succesvol geactiveerd"
 msgid "Plugin sucessfully installed"
 msgstr "Plug-in succesvol geïnstalleerd"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "Kant-en-klare websites en thema's"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "Voorbeeld"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "Voorbeeld site"
+msgstr "Preview site"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "Voorbeeld website"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "Publiceer de pagina"
 
@@ -1127,11 +1132,11 @@ msgstr "Publiceer de pagina"
 msgid "Rate this plugin"
 msgstr "Beoordeel deze plug-in"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "Aanbevolen voor jou"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Een Amazon Affiliate site beheren"
 
@@ -1196,11 +1201,11 @@ msgstr "Google Site Kit instellen"
 msgid "Set up payment method"
 msgstr "Betaalmethode instellen"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "Betalingen instellen"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "Verzending instellen"
 
@@ -1208,7 +1213,7 @@ msgstr "Verzending instellen"
 msgid "Set up shipping method"
 msgstr "Verzendmethode instellen"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Google Site Kit instellen"
 
@@ -1216,7 +1221,7 @@ msgstr "Google Site Kit instellen"
 msgid "Set up your online store"
 msgstr "Je webshop opzetten"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "Je site instellen"
 
@@ -1239,12 +1244,12 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "Google Site Kit instellen"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 #| msgid "Set up my online store"
 msgid "Setup my online store"
 msgstr "Mijn webshop opzetten"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Website instellen"
 
@@ -1272,11 +1277,11 @@ msgstr "Gemakkelijk producten verzenden"
 msgid "Shipping methods"
 msgstr "Verzendmethoden"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "Plug-ins voor verzendingen"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "Verzendinstellingen"
 
@@ -1284,11 +1289,11 @@ msgstr "Verzendinstellingen"
 msgid "Shop locale is empty, please setup store first"
 msgstr "Shop locatie is leeg, installeer de winkel eerst"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "Toon lijst"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "Overslaan"
 
@@ -1303,7 +1308,7 @@ msgstr "Sorry, er zijn activeringsfouten opgetreden."
 msgid "Sorry, there are validation errors."
 msgstr "Sorry, er zijn validatiefouten opgetreden."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1326,11 +1331,11 @@ msgstr "Lokale opslaglocatie niet gevonden"
 msgid "Take credit card payments on your store using Stripe."
 msgstr "Accepteer creditcardbetalingen met Stripe in je winkel."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "Breng me er naartoe"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "Vertel ons iets over je bedrijf"
 
@@ -1432,7 +1437,7 @@ msgstr ""
 "Deze extensie geeft je de mogelijkheid om de Colissimo verzendmethoden te "
 "gebruiken in WooCommerce"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "Dit veld is verplicht"
 
@@ -1441,7 +1446,7 @@ msgstr "Dit veld is verplicht"
 msgid "Title"
 msgstr "Titel"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1453,7 +1458,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "Probeer Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "Tutorials"
 
@@ -1461,11 +1466,11 @@ msgstr "Tutorials"
 msgid "Unknown error code."
 msgstr "Onbekende foutcode."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "Foto opladen"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "Logo opladen"
 
@@ -1481,11 +1486,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "Checkllist bekijken"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "Bekijk voltooid"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "Minder bekijken"
 
@@ -1493,11 +1498,11 @@ msgstr "Minder bekijken"
 msgid "View list"
 msgstr "Lijst bekijken"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "Meer bekijken"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "Plug-ins bekijken"
 
@@ -1540,22 +1545,19 @@ msgstr ""
 "blijven voordoen, neem dan contact op met ons ondersteuningsteam voor "
 "assistentie."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "We gebruiken deze informatie voor het sneller opzetten van je winkel."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Website instellen"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "Website URL"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "Welkom bij WordPress!"
 
@@ -1567,11 +1569,11 @@ msgstr "Wat voor producten of diensten ga je verkopen?"
 msgid "Where is your store located?"
 msgstr "Waar is je winkel gevestigd?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "WordPress tutorials"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "Ja, stap overslaan"
 
@@ -1580,7 +1582,7 @@ msgstr "Ja, stap overslaan"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "Je gebruikt <b>%s</b> PHP versie."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr ""
@@ -1601,7 +1603,7 @@ msgstr ""
 "Verschillende domeinproviders hebben verschillende procedures voor het "
 "wijzigen van naamservers. Hier zijn de naamservers van Hostinger:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
@@ -1609,7 +1611,7 @@ msgstr ""
 "Je kunt het volledige bericht in de editor bekijken. Zoek het onderdeel "
 "beschrijving en wijzig."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1651,7 +1653,7 @@ msgstr ""
 "Je nieuwe site vervangt de huidige site. Gebruik dezelfde beschrijving of "
 "verander deze."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "Je voortgang"
 
@@ -1659,7 +1661,7 @@ msgstr "Je voortgang"
 msgid "Your store name"
 msgstr "Je winkelnaam"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1673,10 +1675,10 @@ msgstr ""
 "Je wordt vast blij van deze geweldige aanbiedingen die speciaal voor jou "
 "zijn uitgekozen."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "Je bent klaar met het opzetten van je webshop!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 Welkom bij WordPress"

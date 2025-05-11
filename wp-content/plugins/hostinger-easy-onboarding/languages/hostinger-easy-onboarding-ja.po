@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-12-03T07:13:05+00:00\n"
-"PO-Revision-Date: 2025-04-17 11:00+0000\n"
+"PO-Revision-Date: 2025-04-28 04:34+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
 "Language: ja\n"
@@ -41,22 +41,22 @@ msgstr "すでに%sがアクティブの状態です。"
 msgid "%s missing or empty"
 msgstr "%sが欠けているか空の状態です。"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
-msgstr "（クレジットカード/デビットカード）"
+msgstr "（クレジットカード / デビットカード）"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
 msgstr "<strong>あと少し！</strong>オンライン上でサイトを成功させるための準備はあと少しで完了です。"
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr "<strong>内蔵された決済方法を使用する</strong> - 追加のプラグインは必要ありません。"
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr "<strong>内蔵された配送方法を使用する</strong> - 追加のプラグインは必要ありません。"
@@ -65,7 +65,7 @@ msgstr "<strong>内蔵された配送方法を使用する</strong> - 追加の�
 msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr "クレジットカードでのお支払いが可能です。WordPress内で取引を管理しましょう。"
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "サイトアイデンティティにアクセスしてタイトルを編集"
 
@@ -78,11 +78,11 @@ msgstr "アクションは失敗しました。申し訳ございませんが、
 msgid "Actions"
 msgstr "アクション"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "アクティブ"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "追加"
 
@@ -90,15 +90,15 @@ msgstr "追加"
 msgid "Add a domain"
 msgstr "ドメインを追加"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "新しいページを追加"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "タイトルを追加"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "コンテンツを追加"
 
@@ -106,7 +106,7 @@ msgstr "コンテンツを追加"
 msgid "Add domain"
 msgstr "ドメインを追加"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "プラグインを追加"
 
@@ -114,7 +114,7 @@ msgstr "プラグインを追加"
 msgid "Add product"
 msgstr "商品を追加"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "配送方法を追加"
 
@@ -122,7 +122,7 @@ msgstr "配送方法を追加"
 msgid "Add store details"
 msgstr "ストアの詳細を追加"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -138,11 +138,11 @@ msgstr "最初の商品を追加"
 msgid "Add your first product or service"
 msgstr "最初の商品またはサービスを追加"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "追加済み"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -190,7 +190,7 @@ msgstr "予期せぬエラーが発生しました。もう一度お試しくだ
 msgid "Are you sure you want to delete this page?"
 msgstr "本当にこのページを削除しますか？"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "本当に実行しますか？"
 
@@ -205,11 +205,11 @@ msgid ""
 "transfers – manage all of your projects quickly and easily."
 msgstr "自動化されたレポート、モニタリングツール、サイトプリセット、1クリックでの所有権移動など、すべてのプロジェクトを迅速かつ簡単に管理できます。"
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "戻る"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -234,12 +234,12 @@ msgid ""
 "AI handles the rest."
 msgstr "プロフェッショナルなカスタムデザインのサイトを瞬時に構築しましょう。ここで必要なのは数回のクリックのみで、あとはすべてAIが処理いたします。"
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "キャンセル"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "代金引換"
 
@@ -269,15 +269,15 @@ msgid ""
 "others later."
 msgstr "顧客への配送方法を選択してください。後から追加することもできます。"
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "完了"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "完了済みのステップ"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "設定"
 
@@ -291,11 +291,11 @@ msgstr "支払い方法を設定してカード、チケット、Mercado Pagoア
 msgid "Congrats, you have connected WooPayments!"
 msgstr "おめでとうございます、WooPaymentsに接続しました！"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "おめでとうございます、サイトを公開する準備が整いました！"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "接続"
 
@@ -303,7 +303,7 @@ msgstr "接続"
 msgid "Connect Amazon to site"
 msgstr "Amazonをサイトに接続"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "今すぐドメインを接続"
 
@@ -312,7 +312,7 @@ msgstr "今すぐドメインを接続"
 msgid "Connect on hPanel"
 msgstr "hPanelに移動"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr "<strong>Amazonアソシエイト</strong>アカウントを接続してAPIの詳細を取得しましょう。"
@@ -321,16 +321,16 @@ msgstr "<strong>Amazonアソシエイト</strong>アカウントを接続してA
 msgid "Connect your Amazon account to the site"
 msgstr "Amazonアカウントをサイトに接続"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "ドメインを接続"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "先にドメインを紐づける必要があります"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Hostingerにドメインを接続"
 
@@ -343,7 +343,7 @@ msgstr "ドメインに接続済み"
 msgid "Connected your Amazon account"
 msgstr "Amazonアカウントに接続済み"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -354,12 +354,12 @@ msgstr "コンテンツはテキスト、画像、動画、表などの形式で
 msgid "Continue"
 msgstr "続ける"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "設定を続ける"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "ロゴを作成"
 
@@ -377,7 +377,7 @@ msgstr "新しいページを作成"
 msgid "Create a site with AI"
 msgstr "AIを活用してサイトを作成"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "AIでWebサイトを作る"
 
@@ -409,7 +409,7 @@ msgstr "AIを活用してサイトを作成"
 msgid "Current page"
 msgstr "現在のページ"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "サイトの外見をカスタマイズして訪問者を迎え入れましょう。"
 
@@ -419,7 +419,7 @@ msgstr "サイトの外見をカスタマイズして訪問者を迎え入れま
 msgid "Delete page"
 msgstr "ページを削除"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "銀行振込"
 
@@ -427,7 +427,7 @@ msgstr "銀行振込"
 msgid "Discover add-ons"
 msgstr "アドオンの詳細"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "拒否"
 
@@ -440,7 +440,7 @@ msgid ""
 "Do you have any comments/suggestions to improve our WooCommerce onboarding?"
 msgstr "WooCommerceのオンボーディングを改善するためのコメントやご提案はありますか？"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -451,11 +451,11 @@ msgstr "ドメインの伝播には最大で24時間かかる場合がありま�
 msgid "Edit"
 msgstr "編集"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "画像を編集"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "説明を編集"
 
@@ -475,19 +475,19 @@ msgstr "ページを編集"
 msgid "Edit Pages"
 msgstr "ページを編集"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "投稿を編集"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "投稿の説明を編集"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "サイトを編集"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "サイトのタイトルを編集"
 
@@ -495,7 +495,7 @@ msgstr "サイトのタイトルを編集"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "WordPressアドオンによる効率的なサイト管理"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr "オンラインストアの詳細な情報を入力いただくと、より迅速にストアを立ち上げることができます。"
@@ -521,27 +521,33 @@ msgstr "Omnisendを活用してオーディエンスを拡大 ー 売上アッ�
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "RedSysの決済サービスでWooCommerceを拡張しましょう。"
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "ナレッジベースで必要な情報を見つけましょう"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "メディアページに移動"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "セットアップ完了"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "以下の手順に従ってセットアップを完了させましょう"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "コンテンツを生成"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 msgid "Generate content with AI"
 msgstr "AIを活用してコンテンツを生成"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "ドメインを取得"
 
@@ -557,7 +563,7 @@ msgstr "割引を獲得"
 msgid "Get found on Google"
 msgstr "Google検索ランクを向上"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -567,7 +573,7 @@ msgstr "画像、テキスト、SEOキーワードを瞬時に作成できる<st
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "画像、テキスト、SEOキーワードを迅速に作成しましょう。"
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "ライブサポートの専門家にお問い合わせください"
 
@@ -594,7 +600,7 @@ msgstr "最初の商品を追加し、配送と支払いの設定を行って、
 msgid "Get started"
 msgstr "早速始める"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "早速始める！"
 
@@ -602,33 +608,33 @@ msgstr "早速始める！"
 msgid "Getting your features ready"
 msgstr "各機能の準備を進める"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "投稿に移動"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "カスタマイズページに移動"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
 msgstr "GoogleのSite Kitは、Google検索でサイトが簡単に見つかるように支援する不可欠なプラグインです。"
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "了解"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "ヘルプセンター"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "完了済みの項目を閉じる"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "リストを閉じる"
 
@@ -643,7 +649,7 @@ msgstr "WooCommerceのホスティングサービスでは、自動的な税金�
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostingerアカデミー"
 
@@ -657,7 +663,7 @@ msgstr "Hostingerイージーオンボーディング"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "HostingerイージーオンボーディングのWordPressプラグインです。"
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -667,27 +673,27 @@ msgstr "選択した投稿にカーソルを合わせるとオプションメニ
 msgid "How could we make it easier to create a new WordPress website?"
 msgstr "WordPressのWebサイトを簡単に作成するにはどうすればよいですか？"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "WordPressサイトのバックアップ方法"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "WordPressで効果的なランディングページを作成する方法（2024年）"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "WordPressのお問い合わせページの作成方法"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "WordPressの近日公開ページの作成方法（2024年）"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "WordPressへの画像のインポート方法"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "Webサイトの作成方法（2024年）：簡単でわかりやすい短時間のチュートリアル"
 
@@ -695,7 +701,7 @@ msgstr "Webサイトの作成方法（2024年）：簡単でわかりやすい�
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "ドメイン名をWebホスティングにポイントする方法"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "WordPressでSMTPを設定する方法"
 
@@ -739,40 +745,40 @@ msgstr "https://hostinger.com"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.com"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "ドメイン購入後の次のステップは？"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
 msgstr "画像を編集する場合は、選択した画像をクリックして「画像を編集」ボタンを押すと、トリミング、回転、反転、拡大縮小ができます。"
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
 msgstr "画面左のサイドバーの「外観」をクリックしてメニューを開き、「カスタマイズ」をクリックするとカスタマイズページが開きます。"
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr "画面左のサイドバーの「サイト情報」をクリックして、サイトのタイトルを編集できます。"
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
 msgstr "画面左のサイドバーの「サイト情報」をクリックして、「サイトアイコンを選択」ボタンをクリックすると、ブランドのロゴをアップロードできます。"
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
 msgstr ""
 "画面左のサイドバーの「メディア」ボタンをクリックします。「ライブラリ」ボタンをクリックすると、Webサイトにアップロードしたすべての画像を表示できます。"
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -780,7 +786,7 @@ msgid ""
 msgstr ""
 "画面左のサイドバーの「ページ」メニューをクリックし、「新規追加」ボタンをクリックするとWordPressのページエディターが開きます。WordPressエディターの各段落・画像・動画はコンテンツの「ブロック」として表示されます。"
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -796,7 +802,7 @@ msgstr "Google検索エンジンでのランクを向上させることで、サ
 msgid "Installation failed"
 msgstr "インストールに失敗"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "インストール済み"
 
@@ -825,11 +831,11 @@ msgstr "オンラインストアの立ち上げまで残り数ステップです
 msgid "Keep current site"
 msgstr "現在のサイトを維持"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "ナレッジベース"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "WordPressについて学ぶ"
 
@@ -840,7 +846,7 @@ msgid ""
 msgstr ""
 "AmazonアソシエイトのアカウントをWebサイトにリンクし、商品のプロモーションを開始し、報酬を獲得しましょう。APIキーは必要ありません。"
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache：WordPressを最大限に最適化する方法"
 
@@ -896,7 +902,7 @@ msgstr "必要なし"
 msgid "Not now"
 msgstr "後で"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr "それでは、インストールしたプラグインの<strong>設定を完了</strong>させましょう。"
 
@@ -908,7 +914,7 @@ msgstr ""
 "<a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-post\" "
 "target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "オンボーディング"
@@ -917,21 +923,21 @@ msgstr "オンボーディング"
 msgid "Online store setup"
 msgstr "オンラインストアの設定"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
 msgstr "登録して、WooCommerceチームからのヒント、割引、おすすめの情報を受け取りましょう。"
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "または決済プラグインを使用する"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "または配送プラグインを使用する"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "その他"
 
@@ -940,15 +946,15 @@ msgstr "その他"
 msgid "Page title:"
 msgstr "ページタイトル："
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "支払い方法"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "決済プラグイン"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "支払い設定"
 
@@ -993,25 +999,24 @@ msgstr "プラグインの有効化に成功しました"
 msgid "Plugin sucessfully installed"
 msgstr "プラグインのインストールに成功しました"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "事前構築Webサイトとテーマ"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "プレビュー"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "プレビューサイト"
+msgstr "サイトをプレビュー"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "Webサイトをプレビュー"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "ページを公開"
 
@@ -1019,11 +1024,11 @@ msgstr "ページを公開"
 msgid "Rate this plugin"
 msgstr "このプラグインを評価"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "おすすめ"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Amazonアフィリエイトサイトの運営"
 
@@ -1082,11 +1087,11 @@ msgstr "GoogleのSite Kitを設定"
 msgid "Set up payment method"
 msgstr "支払い方法を設定"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "支払いを設定"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "配送を設定"
 
@@ -1094,7 +1099,7 @@ msgstr "配送を設定"
 msgid "Set up shipping method"
 msgstr "配送方法の設定"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Site Kitを設定"
 
@@ -1102,7 +1107,7 @@ msgstr "Site Kitを設定"
 msgid "Set up your online store"
 msgstr "オンラインストアを設定"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "サイトを設定"
 
@@ -1120,11 +1125,11 @@ msgstr "<strong>WooCommerce</strong>の設定し商品やサービスを追加�
 msgid "Setup Google Site Kit"
 msgstr "GoogleのSite Kitを設定"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 msgid "Setup my online store"
 msgstr "オンラインストアを設定"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Webサイトを設定"
 
@@ -1148,11 +1153,11 @@ msgstr "簡単に商品を配送"
 msgid "Shipping methods"
 msgstr "配送方法"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "配送プラグイン"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "配送設定"
 
@@ -1160,11 +1165,11 @@ msgstr "配送設定"
 msgid "Shop locale is empty, please setup store first"
 msgstr "ショップの地域情報が設定されていません。まずはストアの設定を完了しましょう。"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "リストを表示"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "スキップ"
 
@@ -1179,7 +1184,7 @@ msgstr "アクティベーションエラーが発生しました。"
 msgid "Sorry, there are validation errors."
 msgstr "バリデーションエラーが発生しました。"
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1202,11 +1207,11 @@ msgstr "ストアロケーションの地域情報が見つかりませんでし
 msgid "Take credit card payments on your store using Stripe."
 msgstr "Stripeを使用してストアでクレジットカード決済を有効にしましょう。"
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "移動する"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "ビジネスについて簡単に教えてください。"
 
@@ -1297,7 +1302,7 @@ msgid ""
 "methods in WooCommerce"
 msgstr "この拡張機能により、WooCommerceでColissimoの配送方法を使用できるようになります。"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "このフィールドの入力は必須です"
 
@@ -1306,7 +1311,7 @@ msgstr "このフィールドの入力は必須です"
 msgid "Title"
 msgstr "タイトル"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1316,7 +1321,7 @@ msgstr "新しい画像をアップロードするには、メディアライブ
 msgid "Try Omnisend"
 msgstr "Omnisendを試す"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "チュートリアル"
 
@@ -1324,11 +1329,11 @@ msgstr "チュートリアル"
 msgid "Unknown error code."
 msgstr "不明なエラーコード"
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "画像をアップロード"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "ロゴをアップロード"
 
@@ -1343,11 +1348,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "チェックリストを表示"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "完了済みの項目を表示"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "表示を減らす"
 
@@ -1355,11 +1360,11 @@ msgstr "表示を減らす"
 msgid "View list"
 msgstr "リストを表示"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "さらに表示"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "プラグインを表示"
 
@@ -1397,22 +1402,19 @@ msgid ""
 msgstr ""
 "ご不便をおかけして申し訳ございませんが、AIコンテンツの生成プロセスでサーバーエラーが発生しました。問題が解決しない場合は、当社のサポートチームまでお問い合わせください。"
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "この情報は、ストアの設定をより迅速に行うために使用されます。"
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Webサイトの設定"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "WebサイトのURL"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "WordPressへようこそ！"
 
@@ -1424,11 +1426,11 @@ msgstr "どのような商品やサービスの販売を予定していますか
 msgid "Where is your store located?"
 msgstr "ストアの所在地はどこですか？"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "WordPressのチュートリアル"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "はい、手順をスキップします。"
 
@@ -1437,7 +1439,7 @@ msgstr "はい、手順をスキップします。"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "現在利用中のPHPバージョンは<b>%s</b>です。"
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr "また、追加のプラグインをインストールせずに配送方法を設定することもできます。"
@@ -1450,13 +1452,13 @@ msgid ""
 msgstr ""
 "ネームサーバーを変更して、ドメインをHostingerに接続できます。ドメインプロバイダーにはそれぞれネームサーバーを変更するための手順があり、以下がHostingerのネームサーバーです："
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
 msgstr "エディターで投稿全体を見ることができます。説明欄を見つけて、自由に変更しましょう。"
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1492,7 +1494,7 @@ msgid ""
 "change it."
 msgstr "新しいサイトが現在のサイトに置き換わります。同じ説明文を使用するか、変更するかをお選びいただけます。"
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "進捗状況"
 
@@ -1500,7 +1502,7 @@ msgstr "進捗状況"
 msgid "Your store name"
 msgstr "ストア名"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1511,10 +1513,10 @@ msgstr ""
 msgid "You’ll love these great deals that were handpicked just for you."
 msgstr "厳選された特典ご紹介します。ぜひご覧ください。"
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "オンラインストアの設定が完了しました！"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 WordPressへようこそ"

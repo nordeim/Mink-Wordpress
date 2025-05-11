@@ -15,10 +15,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-05-06T11:48:04+00:00\n"
-"PO-Revision-Date: 2025-04-17 11:00+0000\n"
+"PO-Revision-Date: 2025-04-28 04:34+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: hostinger-easy-onboarding\n"
-"X-Loco-Version: 2.7.2; wp-6.7.2\n"
+"X-Loco-Version: 2.7.2; wp-6.8\n"
 "Language: id_ID\n"
 "Plural-Forms: nplurals=1; plural=0;"
 
@@ -47,11 +47,11 @@ msgstr "%s sudah aktif"
 msgid "%s missing or empty"
 msgstr "%s hilang atau kosong"
 
-#: includes/Admin/Assets.php:287
+#: includes/Admin/Assets.php:283
 msgid "(Credit/Debit card)"
 msgstr "(Kartu Kredit/Debit)"
 
-#: includes/Admin/Assets.php:230
+#: includes/Admin/Assets.php:228
 msgid ""
 "<strong>Almost there!</strong> Just a few more steps to get your site ready "
 "for online success."
@@ -59,13 +59,13 @@ msgstr ""
 "<strong>Hampir selesai!</strong> Tinggal beberapa langkah lagi agar website "
 "siap online."
 
-#: includes/Admin/Assets.php:302
+#: includes/Admin/Assets.php:298
 msgid ""
 "<strong>Use built-in payment methods</strong> - no extra plugins needed."
 msgstr ""
 "<strong>Gunakan metode pembayaran bawaan</strong> tanpa plugin tambahan."
 
-#: includes/Admin/Assets.php:301
+#: includes/Admin/Assets.php:297
 msgid ""
 "<strong>Use built-in shipping methods</strong> - no extra plugins needed."
 msgstr ""
@@ -76,7 +76,7 @@ msgid "Accept payments via credit card. Manage transactions within WordPress."
 msgstr ""
 "Terima pembayaran melalui kartu kredit dan kelola transaksi di WordPress."
 
-#: includes/Admin/Assets.php:261
+#: includes/Admin/Assets.php:257
 msgid "Access site identity and edit title"
 msgstr "Buka  dan edit judul"
 
@@ -89,11 +89,11 @@ msgstr "Maaf, terjadi kesalahan. Silakan coba lagi atau hubungi tim support."
 msgid "Actions"
 msgstr "Tindakan"
 
-#: includes/Admin/Assets.php:276
+#: includes/Admin/Assets.php:272
 msgid "Activate"
 msgstr "Aktifkan"
 
-#: includes/Admin/Assets.php:265
+#: includes/Admin/Assets.php:261
 msgid "Add"
 msgstr "Tambahkan"
 
@@ -101,15 +101,15 @@ msgstr "Tambahkan"
 msgid "Add a domain"
 msgstr "Tambahkan domain"
 
-#: includes/Admin/Assets.php:213 includes/Admin/Assets.php:263
+#: includes/Admin/Assets.php:212 includes/Admin/Assets.php:259
 msgid "Add a new page"
 msgstr "Tambahkan halaman baru"
 
-#: includes/Admin/Assets.php:278
+#: includes/Admin/Assets.php:274
 msgid "Add a title"
 msgstr "Tambahkan judul"
 
-#: includes/Admin/Assets.php:304
+#: includes/Admin/Assets.php:300
 msgid "Add content"
 msgstr "Tambahkan konten"
 
@@ -117,7 +117,7 @@ msgstr "Tambahkan konten"
 msgid "Add domain"
 msgstr "Tambahkan domain"
 
-#: includes/Admin/Assets.php:264
+#: includes/Admin/Assets.php:260
 msgid "Add plugin"
 msgstr "Tambahkan plugin"
 
@@ -126,7 +126,7 @@ msgstr "Tambahkan plugin"
 msgid "Add product"
 msgstr "Tambahkan produk"
 
-#: includes/Admin/Assets.php:296
+#: includes/Admin/Assets.php:292
 msgid "Add shipping method"
 msgstr "Tambahkan metode pengiriman"
 
@@ -134,7 +134,7 @@ msgstr "Tambahkan metode pengiriman"
 msgid "Add store details"
 msgstr "Tambahkan detail toko"
 
-#: includes/Admin/Assets.php:303
+#: includes/Admin/Assets.php:299
 msgid ""
 "Add the title of the page, for example, About. Click the Add Title text to "
 "open the text box where you will add your title. The title of your page "
@@ -152,11 +152,11 @@ msgstr "Tambahkan produk pertama Anda"
 msgid "Add your first product or service"
 msgstr "Tambahkan produk atau layanan pertama Anda"
 
-#: includes/Admin/Assets.php:266
+#: includes/Admin/Assets.php:262
 msgid "Added"
 msgstr "Ditambahkan"
 
-#: includes/Admin/Assets.php:202
+#: includes/Admin/Assets.php:201
 msgid ""
 "Adding a logo is a great way to personalize a website or add branding "
 "information. You can use your existing logo or create a new one using the <a "
@@ -208,7 +208,7 @@ msgstr "Terjadi kesalahan yang tidak terduga . Silakan coba lagi."
 msgid "Are you sure you want to delete this page?"
 msgstr "Apakah Anda yakin ingin menghapus halaman ini?"
 
-#: includes/Admin/Assets.php:312
+#: includes/Admin/Assets.php:308
 msgid "Are you sure?"
 msgstr "Apakah Anda yakin?"
 
@@ -225,11 +225,11 @@ msgstr ""
 "Laporan otomatis, fitur monitoring, preset situs, dan transfer kepemilikan "
 "dalam sekali klik. Kelola semua proyek Anda jadi lebih praktis."
 
-#: includes/Admin/Assets.php:279
+#: includes/Admin/Assets.php:275
 msgid "Back"
 msgstr "Kembali"
 
-#: includes/Admin/Assets.php:314
+#: includes/Admin/Assets.php:310
 msgid ""
 "Before publishing, you can preview your created page by clicking on the "
 "Preview button. If you are happy with the result, click the Publish button."
@@ -261,12 +261,12 @@ msgstr ""
 "Buat situs profesional khusus dalam sekejap. Cukup beberapa klik, AI akan "
 "membuatkan website untuk Anda."
 
-#: includes/Admin/Assets.php:212 gutenberg/edit-pages-panel/build/index.js:1
+#: includes/Admin/Assets.php:211 gutenberg/edit-pages-panel/build/index.js:1
 #: gutenberg/edit-pages-panel/src/components/PageForm.js:70
 msgid "Cancel"
 msgstr "Batalkan"
 
-#: includes/Admin/Assets.php:291
+#: includes/Admin/Assets.php:287
 msgid "Cash on delivery"
 msgstr "Bayar di tempat (COD)"
 
@@ -298,15 +298,15 @@ msgstr ""
 "Pilih metode pengiriman pesanan ke pelanggan Anda. Anda dapat menambahkan "
 "metode pengiriman lainnya kapan saja."
 
-#: includes/Admin/Assets.php:225
+#: includes/Admin/Assets.php:224
 msgid "Complete"
 msgstr "Lengkap"
 
-#: includes/Admin/Assets.php:231
+#: includes/Admin/Assets.php:229
 msgid "Completed steps"
 msgstr "Langkah yang telah diselesaikan"
 
-#: includes/Admin/Assets.php:267
+#: includes/Admin/Assets.php:263
 msgid "Configure"
 msgstr "Konfigurasi"
 
@@ -322,11 +322,11 @@ msgstr ""
 msgid "Congrats, you have connected WooPayments!"
 msgstr "Selamat, WooPayments berhasil terhubung!"
 
-#: includes/Admin/Assets.php:227 includes/Admin/Hooks.php:490
+#: includes/Admin/Assets.php:225 includes/Admin/Hooks.php:490
 msgid "Congrats, you’re ready to show off your site!"
 msgstr "Selamat, Anda sudah siap untuk memamerkan situs Anda!"
 
-#: includes/Admin/Assets.php:268
+#: includes/Admin/Assets.php:264
 msgid "Connect"
 msgstr "Hubungkan"
 
@@ -334,7 +334,7 @@ msgstr "Hubungkan"
 msgid "Connect Amazon to site"
 msgstr "Hubungkan Amazon ke situs"
 
-#: includes/Admin/Assets.php:245
+#: includes/Admin/Assets.php:241
 msgid "Connect domain now"
 msgstr "Hubungkan domain sekarang"
 
@@ -343,7 +343,7 @@ msgstr "Hubungkan domain sekarang"
 msgid "Connect on hPanel"
 msgstr "Terhubung di hPanel"
 
-#: includes/Admin/Assets.php:275 includes/Admin/Onboarding/WelcomeCards.php:29
+#: includes/Admin/Assets.php:271 includes/Admin/Onboarding/WelcomeCards.php:29
 msgid ""
 "Connect your <strong>Amazon Associate</strong> account to fetch API details."
 msgstr ""
@@ -354,16 +354,16 @@ msgstr ""
 msgid "Connect your Amazon account to the site"
 msgstr "Hubungkan akun Amazon Anda ke situs"
 
-#: includes/Admin/Assets.php:214
+#: includes/Admin/Assets.php:213
 msgid "Connect your domain"
 msgstr "Hubungkan domain"
 
-#: includes/Admin/Assets.php:313 includes/Admin/Onboarding/Onboarding.php:425
+#: includes/Admin/Assets.php:309 includes/Admin/Onboarding/Onboarding.php:425
 msgid "Connect your domain first"
 msgstr "Hubungkan domain Anda terlebih dahulu"
 
 #: includes/Admin/Assets.php:191 includes/Admin/Assets.php:194
-#: includes/Admin/Assets.php:317
+#: includes/Admin/Assets.php:313
 msgid "Connect your domain to Hostinger"
 msgstr "Hubungkan domain Anda ke Hostinger"
 
@@ -376,7 +376,7 @@ msgstr "Menghubungkan domain"
 msgid "Connected your Amazon account"
 msgstr "Menghubungkan akun Amazon Anda"
 
-#: includes/Admin/Assets.php:305
+#: includes/Admin/Assets.php:301
 msgid ""
 "Content can be anything you wish, for example, text, images, videos, tables, "
 "and lots more. Click on a plus sign and choose any block you want to add to "
@@ -389,12 +389,12 @@ msgstr ""
 msgid "Continue"
 msgstr "Lanjutkan"
 
-#: includes/Admin/Assets.php:309 includes/Admin/Hooks.php:487
+#: includes/Admin/Assets.php:305 includes/Admin/Hooks.php:487
 #: includes/Admin/Hooks.php:500
 msgid "Continue setup"
 msgstr "Lanjutkan setup"
 
-#: includes/Admin/Assets.php:215
+#: includes/Admin/Assets.php:214
 msgid "Create a logo"
 msgstr "Buat logo"
 
@@ -412,7 +412,7 @@ msgstr "Buat halaman baru"
 msgid "Create a site with AI"
 msgstr "Membuat situs dengan AI"
 
-#: includes/Admin/Assets.php:284
+#: includes/Admin/Assets.php:280
 msgid "Create a website with AI"
 msgstr "Buat situs dengan AI"
 
@@ -447,7 +447,7 @@ msgstr "Buat situs dengan AI"
 msgid "Current page"
 msgstr "Halaman saat ini"
 
-#: includes/Admin/Assets.php:228
+#: includes/Admin/Assets.php:226
 msgid "Customize the way your site looks and start welcoming visitors."
 msgstr "Sesuaikan tampilan situs Anda dan mulai sambut pengunjung Anda."
 
@@ -457,7 +457,7 @@ msgstr "Sesuaikan tampilan situs Anda dan mulai sambut pengunjung Anda."
 msgid "Delete page"
 msgstr "Hapus halaman"
 
-#: includes/Admin/Assets.php:292
+#: includes/Admin/Assets.php:288
 msgid "Direct bank transfer"
 msgstr "Transfer bank langsung"
 
@@ -465,7 +465,7 @@ msgstr "Transfer bank langsung"
 msgid "Discover add-ons"
 msgstr "Temukan add-ons"
 
-#: includes/Admin/Assets.php:238 includes/Admin/Assets.php:269
+#: includes/Admin/Assets.php:265
 msgid "Dismiss"
 msgstr "Tutup"
 
@@ -478,7 +478,7 @@ msgid ""
 "Do you have any comments/suggestions to improve our WooCommerce onboarding?"
 msgstr "Apakah Anda memiliki saran untuk meningkatkan setup WooCommerce kami?"
 
-#: includes/Admin/Assets.php:319
+#: includes/Admin/Assets.php:315
 msgid ""
 "Domain propagation can take up to 24 hours. Your domain will propagate "
 "automatically, and you don't need to take any action during this time."
@@ -492,11 +492,11 @@ msgstr ""
 msgid "Edit"
 msgstr "Edit"
 
-#: includes/Admin/Assets.php:257
+#: includes/Admin/Assets.php:253
 msgid "Edit an image"
 msgstr "Edit gambar"
 
-#: includes/Admin/Assets.php:251
+#: includes/Admin/Assets.php:247
 msgid "Edit description"
 msgstr "Edit deskripsi"
 
@@ -516,19 +516,19 @@ msgstr "Edit Halaman"
 msgid "Edit Pages"
 msgstr "Edit Halaman"
 
-#: includes/Admin/Assets.php:249
+#: includes/Admin/Assets.php:245
 msgid "Edit post"
 msgstr "Edit postingan"
 
-#: includes/Admin/Assets.php:209
+#: includes/Admin/Assets.php:208
 msgid "Edit post description"
 msgstr "Edit deskripsi postingan"
 
-#: includes/Admin/Assets.php:237 includes/Admin/Assets.php:341
+#: includes/Admin/Assets.php:234 includes/Admin/Assets.php:337
 msgid "Edit site"
 msgstr "Edit situs"
 
-#: includes/Admin/Assets.php:211
+#: includes/Admin/Assets.php:210
 msgid "Edit site title"
 msgstr "Edit judul situs"
 
@@ -536,7 +536,7 @@ msgstr "Edit judul situs"
 msgid "Efficient site management with WordPress add-ons"
 msgstr "Kelola situs lebih efisien dengan WordPress add-ons"
 
-#: includes/Admin/Assets.php:223
+#: includes/Admin/Assets.php:222
 msgid ""
 "Enter your store details so we can help you set up your online store faster."
 msgstr ""
@@ -571,28 +571,34 @@ msgstr ""
 msgid "Extends WooCommerce with a RedSys gateway."
 msgstr "Kembangkan WooCommerce dengan gateway RedSys."
 
-#: includes/Admin/Assets.php:328
+#: includes/Admin/Assets.php:324
 msgid "Find the answers you need in our Knowledge Base"
 msgstr "Temukan jawaban yang Anda butuhkan di Pengetahuan Dasar kami"
 
-#: includes/Admin/Assets.php:253
+#: includes/Admin/Assets.php:249
 msgid "Find the Media page"
 msgstr "Temukan halaman Media"
 
-#: includes/Admin/Assets.php:338
+#: gutenberg/edit-pages-panel/build/index.js:1
+#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:26
+#, fuzzy
+msgid "Finish Setup"
+msgstr "Selesaikan Penyiapan"
+
+#: includes/Admin/Assets.php:334
 msgid "Follow these steps to complete your setup"
 msgstr "Ikuti langkah-langkah berikut untuk menyelesaikan setup"
 
-#: includes/Admin/Assets.php:270
+#: includes/Admin/Assets.php:266
 msgid "Generate content"
 msgstr "Buat konten"
 
-#: includes/Admin/Assets.php:272 includes/Admin/Onboarding/WelcomeCards.php:37
+#: includes/Admin/Assets.php:268 includes/Admin/Onboarding/WelcomeCards.php:37
 #| msgid "Create content with AI"
 msgid "Generate content with AI"
 msgstr "Buat konten dengan AI"
 
-#: includes/Admin/Assets.php:315
+#: includes/Admin/Assets.php:311
 msgid "Get a domain"
 msgstr "Dapatkan domain"
 
@@ -608,7 +614,7 @@ msgstr "Klaim Diskon"
 msgid "Get found on Google"
 msgstr "Ditemukan di Google"
 
-#: includes/Admin/Assets.php:273
+#: includes/Admin/Assets.php:269
 msgid ""
 "Get images, text, and SEO keywords created for you instantly – try <strong>"
 "AI Content Creator</strong>."
@@ -620,7 +626,7 @@ msgstr ""
 msgid "Get images, text, and SEO keywords created for you instantly."
 msgstr "Dapatkan gambar, teks, dan keyword SEO khusus untuk Anda dengan cepat."
 
-#: includes/Admin/Assets.php:336
+#: includes/Admin/Assets.php:332
 msgid "Get in touch with our live specialists"
 msgstr "Hubungi spesialis kami secara langsung"
 
@@ -654,7 +660,7 @@ msgstr ""
 msgid "Get started"
 msgstr "Coba Sekarang"
 
-#: includes/Admin/Assets.php:220
+#: includes/Admin/Assets.php:219
 msgid "Get started!"
 msgstr "Coba sekarang!"
 
@@ -662,15 +668,15 @@ msgstr "Coba sekarang!"
 msgid "Getting your features ready"
 msgstr "Menyiapkan fitur Anda"
 
-#: includes/Admin/Assets.php:247
+#: includes/Admin/Assets.php:243
 msgid "Go to Posts"
 msgstr "Ke Postingan"
 
-#: includes/Admin/Assets.php:216 includes/Admin/Assets.php:259
+#: includes/Admin/Assets.php:215 includes/Admin/Assets.php:255
 msgid "Go to the Customize page"
 msgstr "Ke halaman Customize"
 
-#: includes/Admin/Assets.php:311
+#: includes/Admin/Assets.php:307
 msgid ""
 "Google Site Kit is an essential plugin that makes sure that potential "
 "visitors can find your site on Google."
@@ -678,19 +684,19 @@ msgstr ""
 "Google Site Kit adalah plugin penting yang memastikan calon pengunjung dapat "
 "menemukan situs Anda di Google."
 
-#: includes/Admin/Assets.php:246
+#: includes/Admin/Assets.php:242
 msgid "Got it!"
 msgstr "OK!"
 
-#: includes/Admin/Assets.php:329
+#: includes/Admin/Assets.php:325
 msgid "Help Center"
 msgstr "Bantuan Pelanggan"
 
-#: includes/Admin/Assets.php:244
+#: includes/Admin/Assets.php:240
 msgid "Hide completed"
 msgstr "Berhasil disembunyikan"
 
-#: includes/Admin/Assets.php:236
+#: includes/Admin/Assets.php:233
 msgid "Hide list"
 msgstr "Sembunyikan daftar"
 
@@ -707,7 +713,7 @@ msgstr ""
 msgid "Hostinger"
 msgstr "Hostinger"
 
-#: includes/Admin/Assets.php:332
+#: includes/Admin/Assets.php:328
 msgid "Hostinger Academy"
 msgstr "Hostinger Academy"
 
@@ -721,7 +727,7 @@ msgstr "Hostinger Easy Onboarding"
 msgid "Hostinger Easy Onboarding WordPress plugin."
 msgstr "Plugin WordPress Hostinger Easy Onboarding"
 
-#: includes/Admin/Assets.php:250
+#: includes/Admin/Assets.php:246
 msgid ""
 "Hover over the chosen post to see the options menu. Click on the Edit button "
 "to open the post editor."
@@ -734,27 +740,27 @@ msgid "How could we make it easier to create a new WordPress website?"
 msgstr ""
 "Bagaimana kami dapat membantu mempermudah permbuatan situs WordPress baru?"
 
-#: includes/Admin/Assets.php:324
+#: includes/Admin/Assets.php:320
 msgid "How to Back Up a WordPress Site"
 msgstr "Cara Backup Situs WordPress"
 
-#: includes/Admin/Assets.php:316
+#: includes/Admin/Assets.php:312
 msgid "How to Build an EFFECTIVE Landing Page with WordPress (2024)"
 msgstr "Cara Membuat Landing Page yang EFEKTIF dengan WordPress (2024)"
 
-#: includes/Admin/Assets.php:320
+#: includes/Admin/Assets.php:316
 msgid "How to Create a WordPress Contact Us Page"
 msgstr "Cara Buat Halaman Hubungi Kami di WordPress"
 
-#: includes/Admin/Assets.php:322
+#: includes/Admin/Assets.php:318
 msgid "How to Create Your Coming Soon Page in WordPress (2024)"
 msgstr "Cara Membuat Halaman Segera Hadir di WordPress (2024)"
 
-#: includes/Admin/Assets.php:325
+#: includes/Admin/Assets.php:321
 msgid "How to Import Images Into WordPress Website"
 msgstr "Cara Impor Gambar Ke Situs WordPress"
 
-#: includes/Admin/Assets.php:318
+#: includes/Admin/Assets.php:314
 msgid "How to Make a Website (2024): Simple, Quick, & Easy Tutorial"
 msgstr "Cara Membuat Website (2024): Tutorial Sederhana, Cepat, & Mudah"
 
@@ -762,7 +768,7 @@ msgstr "Cara Membuat Website (2024): Tutorial Sederhana, Cepat, & Mudah"
 msgid "How to Point Domain Name to Web Hosting"
 msgstr "Cara Mengarahkan Nama Domain ke Web Hosting"
 
-#: includes/Admin/Assets.php:326
+#: includes/Admin/Assets.php:322
 msgid "How to Set Up WordPress SMTP"
 msgstr "Cara Setup SMTP WordPress"
 
@@ -811,11 +817,11 @@ msgstr "https://hostinger.com"
 msgid "https://www.hostinger.com"
 msgstr "https://www.hostinger.com"
 
-#: includes/Admin/Assets.php:321
+#: includes/Admin/Assets.php:317
 msgid "I Bought a Domain, Now What?"
 msgstr "Saya Sudah Membeli Domain, Apa Langkah Selanjutnya?"
 
-#: includes/Admin/Assets.php:258
+#: includes/Admin/Assets.php:254
 msgid ""
 "If you wish to edit the image, click on the chosen image and click the Edit "
 "Image button. You can now crop, rotate, flip or scale the selected image."
@@ -823,7 +829,7 @@ msgstr ""
 "Untuk mengubah gambar, klik gambar dan klik tombol Sunting Gambar. Anda bisa "
 "memotong, memutar, membalik, atau mengatur ukuran gambar."
 
-#: includes/Admin/Assets.php:208 includes/Admin/Assets.php:260
+#: includes/Admin/Assets.php:207 includes/Admin/Assets.php:256
 msgid ""
 "In the left sidebar, click Appearance to expand the menu. In the Appearance "
 "section, click Customize. The Customize page will open."
@@ -831,11 +837,11 @@ msgstr ""
 "Di sidebar kiri, klik Tampilan untuk melihat menu lainnya. Di menu Tampilan, "
 "klik Editor. Halaman Editor akan terbuka."
 
-#: includes/Admin/Assets.php:262
+#: includes/Admin/Assets.php:258
 msgid "In the left sidebar, click Site Identity and edit your site title."
 msgstr "Di sidebar kiri, klik Identitas Situs dan ubah judul situs Anda."
 
-#: includes/Admin/Assets.php:218
+#: includes/Admin/Assets.php:217
 msgid ""
 "In the left sidebar, click Site Identity, then click on the Select Site Icon "
 "button. Here, you can upload your brand logo."
@@ -843,7 +849,7 @@ msgstr ""
 "Di sidebar kiri, klik Identitas Situs, lalu klik tombol Pilih Situs untuk "
 "upload logo brand Anda."
 
-#: includes/Admin/Assets.php:254
+#: includes/Admin/Assets.php:250
 msgid ""
 "In the left sidebar, find the Media button. Click on the Library button to "
 "see all the images you have uploaded to your website."
@@ -851,7 +857,7 @@ msgstr ""
 "Di sidebar kiri, klik tombol Media. Klik tombol Pustaka untuk melihat semua "
 "gambar yang sudah Anda upload ke website Anda."
 
-#: includes/Admin/Assets.php:277
+#: includes/Admin/Assets.php:273
 msgid ""
 "In the left sidebar, find the Pages menu and click on Add New button. You "
 "will see the WordPress page editor. Each paragraph, image, or video in the "
@@ -861,7 +867,7 @@ msgstr ""
 "membuka editor WordPress. Setiap paragraf, gambar, atau video di editor "
 "WordPress disajikan sebagai “blok” konten."
 
-#: includes/Admin/Assets.php:248
+#: includes/Admin/Assets.php:244
 msgid ""
 "In the left sidebar, find the Posts button. Click on the All Posts button "
 "and find the post for which you want to change the description."
@@ -881,7 +887,7 @@ msgstr ""
 msgid "Installation failed"
 msgstr "Instalasi gagal"
 
-#: includes/Admin/Assets.php:239 includes/Admin/Assets.php:271
+#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:267
 msgid "Installed"
 msgstr "Terinstal"
 
@@ -911,11 +917,11 @@ msgstr "Tinggal beberapa langkah lagi untuk mengaktifkan toko online Anda"
 msgid "Keep current site"
 msgstr "Pertahankan situs saat ini"
 
-#: includes/Admin/Assets.php:235 includes/Admin/Assets.php:327
+#: includes/Admin/Assets.php:323
 msgid "Knowledge Base"
 msgstr "Pengetahuan Dasar"
 
-#: includes/Admin/Assets.php:331
+#: includes/Admin/Assets.php:327
 msgid "Learn WordPress"
 msgstr "Tutorial WordPress"
 
@@ -927,7 +933,7 @@ msgstr ""
 "Tautkan akun Amazon Associates Anda ke website Anda. Mulai promosikan produk "
 "dan dapatkan komisi. Tak perlu API key."
 
-#: includes/Admin/Assets.php:323
+#: includes/Admin/Assets.php:319
 msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
 msgstr "LiteSpeed Cache: Tool Optimasi Efektif untuk Performa Website"
 
@@ -984,7 +990,7 @@ msgstr "Tidak perlu"
 msgid "Not now"
 msgstr "Tidak sekarang"
 
-#: includes/Admin/Assets.php:240
+#: includes/Admin/Assets.php:236
 msgid "Now <strong>finish setting up</strong> the plugins you’ve installed."
 msgstr ""
 "Selanjutnya, <strong>selesaikan pengaturan</strong> plugin yang telah Anda "
@@ -1003,7 +1009,7 @@ msgstr ""
 "di <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-"
 "post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
 
-#: includes/Admin/Assets.php:232 includes/Admin/Menu.php:28
+#: includes/Admin/Assets.php:230 includes/Admin/Menu.php:28
 #: includes/Admin/Menu.php:86 includes/Admin/Menu.php:87
 msgid "Onboarding"
 msgstr "Onboarding"
@@ -1012,7 +1018,7 @@ msgstr "Onboarding"
 msgid "Online store setup"
 msgstr "Setup toko online"
 
-#: includes/Admin/Assets.php:333
+#: includes/Admin/Assets.php:329
 msgid ""
 "Opt-in to receive tips, discounts, and recommendations from the WooCommerce "
 "team directly in your inbox."
@@ -1020,15 +1026,15 @@ msgstr ""
 "Opt-in untuk menerima tips, diskon, dan rekomendasi dari tim WooCommerce "
 "langsung dari email Anda."
 
-#: includes/Admin/Assets.php:299
+#: includes/Admin/Assets.php:295
 msgid "Or use payment plugins"
 msgstr "Atau gunakan plugin pembayaran"
 
-#: includes/Admin/Assets.php:300
+#: includes/Admin/Assets.php:296
 msgid "Or use shipping plugins"
 msgstr "Atau gunakan plugin pengiriman"
 
-#: includes/Admin/Assets.php:289
+#: includes/Admin/Assets.php:285
 msgid "Other"
 msgstr "Lainnya"
 
@@ -1037,15 +1043,15 @@ msgstr "Lainnya"
 msgid "Page title:"
 msgstr "Judul halaman:"
 
-#: includes/Admin/Assets.php:280
+#: includes/Admin/Assets.php:276
 msgid "Payment methods"
 msgstr "Metode pembayaran"
 
-#: includes/Admin/Assets.php:281
+#: includes/Admin/Assets.php:277
 msgid "Payment plugins"
 msgstr "Plugin pembayaran"
 
-#: includes/Admin/Assets.php:285
+#: includes/Admin/Assets.php:281
 msgid "Payment settings"
 msgstr "Pengaturan pembayaran"
 
@@ -1091,25 +1097,24 @@ msgstr "Plugin berhasil diaktifkan"
 msgid "Plugin sucessfully installed"
 msgstr "Plugin berhasil diinstal"
 
-#: includes/Admin/Assets.php:290
+#: includes/Admin/Assets.php:286
 msgid "Pre-built websites and themes"
 msgstr "Situs dan tema yang dibuat sebelumnya"
 
 #: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:46
+#: gutenberg/edit-pages-panel/src/components/PreviewPageButton.js:37
 msgid "Preview"
 msgstr "Pratinjau"
 
-#: includes/Admin/Assets.php:340
-#, fuzzy
+#: includes/Admin/Assets.php:336
 msgid "Preview site"
-msgstr "Situs pratinjau"
+msgstr "Lihat situs"
 
 #: includes/Admin/Assets.php:165
 msgid "Preview website"
 msgstr "Pratinjau situs"
 
-#: includes/Admin/Assets.php:306
+#: includes/Admin/Assets.php:302
 msgid "Publish the page"
 msgstr "Terbitkan laman"
 
@@ -1117,11 +1122,11 @@ msgstr "Terbitkan laman"
 msgid "Rate this plugin"
 msgstr "Beri nilai plugin ini"
 
-#: includes/Admin/Assets.php:288
+#: includes/Admin/Assets.php:284
 msgid "Recommended for you"
 msgstr "Direkomendasikan untuk Anda"
 
-#: includes/Admin/Assets.php:274 includes/Admin/Onboarding/WelcomeCards.php:27
+#: includes/Admin/Assets.php:270 includes/Admin/Onboarding/WelcomeCards.php:27
 msgid "Run an Amazon Affiliate site"
 msgstr "Jalankan situs Amazon Affiliate"
 
@@ -1186,11 +1191,11 @@ msgstr "Setup Google Site Kit"
 msgid "Set up payment method"
 msgstr "Setup metode pembayaran"
 
-#: includes/Admin/Assets.php:286 includes/Admin/Onboarding/Onboarding.php:355
+#: includes/Admin/Assets.php:282 includes/Admin/Onboarding/Onboarding.php:355
 msgid "Set up payments"
 msgstr "Setup pembayaran"
 
-#: includes/Admin/Assets.php:308
+#: includes/Admin/Assets.php:304
 msgid "Set up shipping"
 msgstr "Setup pengiriman"
 
@@ -1198,7 +1203,7 @@ msgstr "Setup pengiriman"
 msgid "Set up shipping method"
 msgstr "Setup metode pengiriman"
 
-#: includes/Admin/Assets.php:307
+#: includes/Admin/Assets.php:303
 msgid "Set up Site Kit"
 msgstr "Setup Site Kit"
 
@@ -1206,7 +1211,7 @@ msgstr "Setup Site Kit"
 msgid "Set up your online store"
 msgstr "Setup toko online Anda"
 
-#: includes/Admin/Assets.php:297
+#: includes/Admin/Assets.php:293
 msgid "Set up your site"
 msgstr "Setup situs Anda"
 
@@ -1229,12 +1234,12 @@ msgstr ""
 msgid "Setup Google Site Kit"
 msgstr "Setup Google Site Kit"
 
-#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:222
+#: includes/Admin/Assets.php:181 includes/Admin/Assets.php:221
 #| msgid "Set up my online store"
 msgid "Setup my online store"
 msgstr "Setup toko online"
 
-#: includes/Admin/Assets.php:229
+#: includes/Admin/Assets.php:227
 msgid "Setup website"
 msgstr "Setup situs"
 
@@ -1262,11 +1267,11 @@ msgstr "Mengirim produk dengan mudah"
 msgid "Shipping methods"
 msgstr "Metode pengiriman"
 
-#: includes/Admin/Assets.php:282
+#: includes/Admin/Assets.php:278
 msgid "Shipping plugins"
 msgstr "Plugin pengiriman"
 
-#: includes/Admin/Assets.php:293
+#: includes/Admin/Assets.php:289
 msgid "Shipping settings"
 msgstr "Pengaturan pengiriman"
 
@@ -1274,11 +1279,11 @@ msgstr "Pengaturan pengiriman"
 msgid "Shop locale is empty, please setup store first"
 msgstr "Lokasi toko kosong, silakan setup toko terlebih dahulu"
 
-#: includes/Admin/Assets.php:233
+#: includes/Admin/Assets.php:231
 msgid "Show list"
 msgstr "Tampilkan daftar"
 
-#: includes/Admin/Assets.php:221
+#: includes/Admin/Assets.php:220
 msgid "Skip"
 msgstr "Lewati"
 
@@ -1293,7 +1298,7 @@ msgstr "Maaf, aktivasi gagal."
 msgid "Sorry, there are validation errors."
 msgstr "Maaf, validasi gagal."
 
-#: includes/Admin/Assets.php:283 includes/Admin/Onboarding/Onboarding.php:601
+#: includes/Admin/Assets.php:279 includes/Admin/Onboarding/Onboarding.php:601
 #: includes/Admin/Onboarding/Onboarding.php:609
 #| msgid "Started creating your site"
 msgid "Start creating your site"
@@ -1316,11 +1321,11 @@ msgstr "Lokasi toko tidak ditemukan"
 msgid "Take credit card payments on your store using Stripe."
 msgstr "Terima pembayaran kartu kredit dengan Stripe."
 
-#: includes/Admin/Assets.php:219
+#: includes/Admin/Assets.php:218
 msgid "Take me there"
 msgstr "Buka"
 
-#: includes/Admin/Assets.php:334
+#: includes/Admin/Assets.php:330
 msgid "Tell us a bit about your business"
 msgstr "Deskripsikan secara singkat tentang bisnis Anda"
 
@@ -1416,7 +1421,7 @@ msgstr ""
 "Ekstensi ini memungkinkan Anda menggunakan metode pengiriman Colissimo di "
 "WooCommerce"
 
-#: includes/Admin/Assets.php:339
+#: includes/Admin/Assets.php:335
 msgid "This field is required"
 msgstr "Kolom ini wajib diisi"
 
@@ -1425,7 +1430,7 @@ msgstr "Kolom ini wajib diisi"
 msgid "Title"
 msgstr "Judul"
 
-#: includes/Admin/Assets.php:256
+#: includes/Admin/Assets.php:252
 msgid ""
 "To upload a new image, click on Add New button on the Media Library page and "
 "select files."
@@ -1437,7 +1442,7 @@ msgstr ""
 msgid "Try Omnisend"
 msgstr "Coba Omnisend"
 
-#: includes/Admin/Assets.php:234
+#: includes/Admin/Assets.php:232
 msgid "Tutorials"
 msgstr "Tutorial"
 
@@ -1445,11 +1450,11 @@ msgstr "Tutorial"
 msgid "Unknown error code."
 msgstr "Kode error tidak dikenal."
 
-#: includes/Admin/Assets.php:210 includes/Admin/Assets.php:255
+#: includes/Admin/Assets.php:209 includes/Admin/Assets.php:251
 msgid "Upload an image"
 msgstr "Upload gambar"
 
-#: includes/Admin/Assets.php:203 includes/Admin/Assets.php:217
+#: includes/Admin/Assets.php:202 includes/Admin/Assets.php:216
 msgid "Upload your logo"
 msgstr "Upload logo Anda"
 
@@ -1465,11 +1470,11 @@ msgstr ""
 msgid "View checklist"
 msgstr "Lihat checklist"
 
-#: includes/Admin/Assets.php:243
+#: includes/Admin/Assets.php:239
 msgid "View completed"
 msgstr "Lihat selesai"
 
-#: includes/Admin/Assets.php:295
+#: includes/Admin/Assets.php:291
 msgid "View less"
 msgstr "Lihat lebih sedikit"
 
@@ -1477,11 +1482,11 @@ msgstr "Lihat lebih sedikit"
 msgid "View list"
 msgstr "Lihat daftar"
 
-#: includes/Admin/Assets.php:294
+#: includes/Admin/Assets.php:290
 msgid "View more"
 msgstr "Lihat lebih banyak"
 
-#: includes/Admin/Assets.php:241
+#: includes/Admin/Assets.php:237
 msgid "View plugins"
 msgstr "Lihat plugin"
 
@@ -1523,22 +1528,19 @@ msgstr ""
 "ketidaknyamanan ini. Silakan coba lagi nanti atau hubungi tim support kami "
 "untuk mendapatkan bantuan."
 
-#: includes/Admin/Assets.php:335 includes/Admin/Onboarding/Onboarding.php:306
+#: includes/Admin/Assets.php:331 includes/Admin/Onboarding/Onboarding.php:306
 msgid "We'll use this information to help you set up your store faster."
 msgstr "Kami akan menggunakan informasi ini untuk setup toko Anda lebih cepat."
 
-#: includes/Admin/Assets.php:201 includes/Admin/Assets.php:226
 #: includes/Admin/Onboarding/Onboarding.php:48
-#: gutenberg/edit-pages-panel/build/index.js:1
-#: gutenberg/edit-pages-panel/src/components/StoreSetupButton.js:29
 msgid "Website setup"
 msgstr "Setup situs"
 
-#: includes/Admin/Assets.php:205
+#: includes/Admin/Assets.php:204
 msgid "Website URL"
 msgstr "URL website"
 
-#: includes/Admin/Assets.php:337
+#: includes/Admin/Assets.php:333
 msgid "Welcome to WordPress!"
 msgstr "Selamat datang di WordPress!"
 
@@ -1550,11 +1552,11 @@ msgstr "Jenis produk atau layanan apa yang ingin dijual?"
 msgid "Where is your store located?"
 msgstr "Di mana lokasi toko Anda?"
 
-#: includes/Admin/Assets.php:330
+#: includes/Admin/Assets.php:326
 msgid "WordPress tutorials"
 msgstr "Tutorial WordPress"
 
-#: includes/Admin/Assets.php:310
+#: includes/Admin/Assets.php:306
 msgid "Yes, skip step"
 msgstr "Ya, lewati"
 
@@ -1563,7 +1565,7 @@ msgstr "Ya, lewati"
 msgid "You are running <b>%s</b> PHP version."
 msgstr "Anda menggunakan versi PHP <b>%s</b>."
 
-#: includes/Admin/Assets.php:298
+#: includes/Admin/Assets.php:294
 msgid ""
 "You can also set up a shipping method without installing additional plugins."
 msgstr ""
@@ -1583,7 +1585,7 @@ msgstr ""
 "Setiap provider domain memiliki prosedur khusus untuk mengubah nameserver. "
 "Berikut nameserver Hostinger:"
 
-#: includes/Admin/Assets.php:252
+#: includes/Admin/Assets.php:248
 msgid ""
 "You can see the whole post in the editor. Find the description part and "
 "change it to your preferences."
@@ -1591,7 +1593,7 @@ msgstr ""
 "Anda dapat melihat semua postingan di editor. Klik bagian deskripsi dan edit "
 "sesuai kebutuhan Anda."
 
-#: includes/Admin/Assets.php:207
+#: includes/Admin/Assets.php:206
 msgid ""
 "You need to purchase a domain for your website before the preview domain "
 "becomes inaccessible. Find a desired website name using a <a style=\"text-"
@@ -1634,7 +1636,7 @@ msgstr ""
 "Situs baru Anda akan menggantikan situs yang sekarang. Ubah deskripsi atau "
 "gunakan deskripsi yang sama."
 
-#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:224
+#: includes/Admin/Assets.php:180 includes/Admin/Assets.php:223
 msgid "Your progress"
 msgstr "Progres Anda"
 
@@ -1642,7 +1644,7 @@ msgstr "Progres Anda"
 msgid "Your store name"
 msgstr "Nama toko Anda"
 
-#: includes/Admin/Assets.php:206
+#: includes/Admin/Assets.php:205
 msgid ""
 "Your website is already published and can be accessed using Hostinger free "
 "temporary subdomain right now. Here is the current URL of your website:"
@@ -1654,10 +1656,10 @@ msgstr ""
 msgid "You’ll love these great deals that were handpicked just for you."
 msgstr "Penawaran terbaik yang kami pilihkan khusus untuk Anda."
 
-#: includes/Admin/Assets.php:242
+#: includes/Admin/Assets.php:238
 msgid "You’re done setting up your online store!"
 msgstr "Setup toko sudah selesai!"
 
-#: includes/Admin/Assets.php:204
+#: includes/Admin/Assets.php:203
 msgid "👋 Welcome to WordPress"
 msgstr "👋 Selamat datang di WordPress"

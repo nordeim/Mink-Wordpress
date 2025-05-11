@@ -20,7 +20,7 @@ class TutorialRoutes {
             'en' => array(
                 array(
                     'id'       => 'F_53_baJe6Q',
-                    'title'    => 'How to Make a Website (2024): Simple, Quick, & Easy Tutorial',
+                    'title'    => 'How to Make a Website (' . date('Y') . '): Simple, Quick, & Easy Tutorial',
                     'duration' => '17:47',
                 ),
                 array(
@@ -30,7 +30,7 @@ class TutorialRoutes {
                 ),
                 array(
                     'id'       => 'SU_DOsu9Llk',
-                    'title'    => 'How to EASILY Manage Google Tools with Google Site Kit - Beginners Guide 2024',
+                    'title'    => 'How to EASILY Manage Google Tools with Google Site Kit - Beginners Guide ' . date('Y'),
                     'duration' => '12:28',
                 ),
                 array(
@@ -51,6 +51,11 @@ class TutorialRoutes {
                     'duration' => '4:28',
                 ),
                 array(
+                    'id'       => 'Me1LR3FzF20',
+                    'title'    => 'Como Personalizar seu site WordPress com o Editor Gutenberg | Para Iniciantes',
+                    'duration' => '14:30',
+                ),
+                array(
                     'id'       => 'OJH713cx-u4',
                     'title'    => 'Como Personalizar um Tema do WordPress',
                     'duration' => '13:42',
@@ -69,8 +74,13 @@ class TutorialRoutes {
             'es' => array(
                 array(
                     'id'       => 'FKp0dvhEN8o',
-                    'title'    => 'Cómo Personalizar WordPress (2023)',
+                    'title'    => 'Cómo Personalizar WordPress (' . date('Y') . ')',
                     'duration' => '9:02',
+                ),
+                array(
+                    'id'       => 'QQQ3BcIb7Uo',
+                    'title'    => 'Guía Completa de Gutenberg en WordPress (' . date('Y') . ')',
+                    'duration' => '12:30',
                 ),
                 array(
                     'id'       => '1tvYSsRSgNc',
@@ -95,6 +105,11 @@ class TutorialRoutes {
                     'duration' => '8:11',
                 ),
                 array(
+                    'id'       => 'fZbe4JgCuPg',
+                    'title'    => 'Tuto - GUTENBERG WORDPRESS : Apprendre à Utiliser Gutenberg (' . date('Y') . ')',
+                    'duration' => '13:20',
+                ),
+                array(
                     'id'       => 'X7ZA9pteqqQ',
                     'title'    => 'TUTO WORDPRESS (Débutant) : Créer un site WordPress pour les Nuls',
                     'duration' => '12:56',
@@ -106,12 +121,12 @@ class TutorialRoutes {
                 ),
                 array(
                     'id'       => 'Te3fM7VuQKg',
-                    'title'    => 'Installer un Thème WordPress (2023) | Rapide et Facile',
+                    'title'    => 'Installer un Thème WordPress (' . date('Y') . ') | Rapide et Facile',
                     'duration' => '2:58',
                 ),
                 array(
                     'id'       => '2rPq1CiogDk',
-                    'title'    => 'Google Analytics sur WordPress FACILEMENT avec Google Site Kit : Guide Complet (2023)',
+                    'title'    => 'Google Analytics sur WordPress FACILEMENT avec Google Site Kit : Guide Complet (' . date('Y') . ')',
                     'duration' => '7:19',
                 ),
             ),
@@ -120,6 +135,38 @@ class TutorialRoutes {
                     'id'       => '4wGytQfbmm4',
                     'title'    => 'How to Build a Website FAST Using AI in Just 10 Minutes',
                     'duration' => '8:32',
+                ),
+                array(
+                    'id'       => 'Aw1kGRXtWCE',
+                    'title'    => 'How to Customize Your WordPress Website with Gutenberg – No Coding Needed',
+                    'duration' => '14:10',
+                ),
+                array(
+                    'id'       => 'AT73ExGMuVc',
+                    'title'    => 'How to Edit Footer in WordPress in Hindi | Hostinger India',
+                    'duration' => '3:48',
+                ),
+                array(
+                    'id'       => 'OIGsBGIaZqM',
+                    'title'    => 'How to Create a Menu in WordPress in Hindi | Hostinger India',
+                    'duration' => '2:38',
+                ),
+                array(
+                    'id'       => 'WFBoHv0xJ60',
+                    'title'    => 'How to Install WordPress Themes | Hostinger India',
+                    'duration' => '2:52',
+                ),
+            ),
+            'pa' => array(
+                array(
+                    'id'       => '4wGytQfbmm4',
+                    'title'    => 'How to Build a Website FAST Using AI in Just 10 Minutes',
+                    'duration' => '8:32',
+                ),
+                array(
+                    'id'       => 'Aw1kGRXtWCE',
+                    'title'    => 'How to Customize Your WordPress Website with Gutenberg – No Coding Needed',
+                    'duration' => '14:10',
                 ),
                 array(
                     'id'       => 'AT73ExGMuVc',
